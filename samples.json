@@ -1,0 +1,4679 @@
+{
+  "samples": [
+    {
+      "engine": "kokoro",
+      "voiceId": "bf_alice::en-gb",
+      "label": "Alice",
+      "language": "en-gb",
+      "gender": "female",
+      "file": "kokoro/en-gb/bf_alice-en-gb.mp3",
+      "license": "Apache-2.0"
+    },
+    {
+      "engine": "kokoro",
+      "voiceId": "bf_emma::en-gb",
+      "label": "Emma",
+      "language": "en-gb",
+      "gender": "female",
+      "file": "kokoro/en-gb/bf_emma-en-gb.mp3",
+      "license": "Apache-2.0"
+    },
+    {
+      "engine": "kokoro",
+      "voiceId": "bf_isabella::en-gb",
+      "label": "Isabella",
+      "language": "en-gb",
+      "gender": "female",
+      "file": "kokoro/en-gb/bf_isabella-en-gb.mp3",
+      "license": "Apache-2.0"
+    },
+    {
+      "engine": "kokoro",
+      "voiceId": "bf_lily::en-gb",
+      "label": "Lily",
+      "language": "en-gb",
+      "gender": "female",
+      "file": "kokoro/en-gb/bf_lily-en-gb.mp3",
+      "license": "Apache-2.0"
+    },
+    {
+      "engine": "kokoro",
+      "voiceId": "bm_daniel::en-gb",
+      "label": "Daniel",
+      "language": "en-gb",
+      "gender": "male",
+      "file": "kokoro/en-gb/bm_daniel-en-gb.mp3",
+      "license": "Apache-2.0"
+    },
+    {
+      "engine": "kokoro",
+      "voiceId": "bm_fable::en-gb",
+      "label": "Fable",
+      "language": "en-gb",
+      "gender": "male",
+      "file": "kokoro/en-gb/bm_fable-en-gb.mp3",
+      "license": "Apache-2.0"
+    },
+    {
+      "engine": "kokoro",
+      "voiceId": "bm_george::en-gb",
+      "label": "George",
+      "language": "en-gb",
+      "gender": "male",
+      "file": "kokoro/en-gb/bm_george-en-gb.mp3",
+      "license": "Apache-2.0"
+    },
+    {
+      "engine": "kokoro",
+      "voiceId": "bm_lewis::en-gb",
+      "label": "Lewis",
+      "language": "en-gb",
+      "gender": "male",
+      "file": "kokoro/en-gb/bm_lewis-en-gb.mp3",
+      "license": "Apache-2.0"
+    },
+    {
+      "engine": "kokoro",
+      "voiceId": "af_alloy::en-us",
+      "label": "Alloy",
+      "language": "en-us",
+      "gender": "female",
+      "file": "kokoro/en-us/af_alloy-en-us.mp3",
+      "license": "Apache-2.0"
+    },
+    {
+      "engine": "kokoro",
+      "voiceId": "af_aoede::en-us",
+      "label": "Aoede",
+      "language": "en-us",
+      "gender": "female",
+      "file": "kokoro/en-us/af_aoede-en-us.mp3",
+      "license": "Apache-2.0"
+    },
+    {
+      "engine": "kokoro",
+      "voiceId": "af_bella::en-us",
+      "label": "Bella",
+      "language": "en-us",
+      "gender": "female",
+      "file": "kokoro/en-us/af_bella-en-us.mp3",
+      "license": "Apache-2.0"
+    },
+    {
+      "engine": "kokoro",
+      "voiceId": "af_heart::en-us",
+      "label": "Heart",
+      "language": "en-us",
+      "gender": "female",
+      "file": "kokoro/en-us/af_heart-en-us.mp3",
+      "license": "Apache-2.0"
+    },
+    {
+      "engine": "kokoro",
+      "voiceId": "af_jessica::en-us",
+      "label": "Jessica",
+      "language": "en-us",
+      "gender": "female",
+      "file": "kokoro/en-us/af_jessica-en-us.mp3",
+      "license": "Apache-2.0"
+    },
+    {
+      "engine": "kokoro",
+      "voiceId": "af_kore::en-us",
+      "label": "Kore",
+      "language": "en-us",
+      "gender": "female",
+      "file": "kokoro/en-us/af_kore-en-us.mp3",
+      "license": "Apache-2.0"
+    },
+    {
+      "engine": "kokoro",
+      "voiceId": "af_nicole::en-us",
+      "label": "Nicole",
+      "language": "en-us",
+      "gender": "female",
+      "file": "kokoro/en-us/af_nicole-en-us.mp3",
+      "license": "Apache-2.0"
+    },
+    {
+      "engine": "kokoro",
+      "voiceId": "af_nova::en-us",
+      "label": "Nova",
+      "language": "en-us",
+      "gender": "female",
+      "file": "kokoro/en-us/af_nova-en-us.mp3",
+      "license": "Apache-2.0"
+    },
+    {
+      "engine": "kokoro",
+      "voiceId": "af_river::en-us",
+      "label": "River",
+      "language": "en-us",
+      "gender": "female",
+      "file": "kokoro/en-us/af_river-en-us.mp3",
+      "license": "Apache-2.0"
+    },
+    {
+      "engine": "kokoro",
+      "voiceId": "af_sarah::en-us",
+      "label": "Sarah",
+      "language": "en-us",
+      "gender": "female",
+      "file": "kokoro/en-us/af_sarah-en-us.mp3",
+      "license": "Apache-2.0"
+    },
+    {
+      "engine": "kokoro",
+      "voiceId": "af_sky::en-us",
+      "label": "Sky",
+      "language": "en-us",
+      "gender": "female",
+      "file": "kokoro/en-us/af_sky-en-us.mp3",
+      "license": "Apache-2.0"
+    },
+    {
+      "engine": "kokoro",
+      "voiceId": "am_adam::en-us",
+      "label": "Adam",
+      "language": "en-us",
+      "gender": "male",
+      "file": "kokoro/en-us/am_adam-en-us.mp3",
+      "license": "Apache-2.0"
+    },
+    {
+      "engine": "kokoro",
+      "voiceId": "am_echo::en-us",
+      "label": "Echo",
+      "language": "en-us",
+      "gender": "male",
+      "file": "kokoro/en-us/am_echo-en-us.mp3",
+      "license": "Apache-2.0"
+    },
+    {
+      "engine": "kokoro",
+      "voiceId": "am_eric::en-us",
+      "label": "Eric",
+      "language": "en-us",
+      "gender": "male",
+      "file": "kokoro/en-us/am_eric-en-us.mp3",
+      "license": "Apache-2.0"
+    },
+    {
+      "engine": "kokoro",
+      "voiceId": "am_fenrir::en-us",
+      "label": "Fenrir",
+      "language": "en-us",
+      "gender": "male",
+      "file": "kokoro/en-us/am_fenrir-en-us.mp3",
+      "license": "Apache-2.0"
+    },
+    {
+      "engine": "kokoro",
+      "voiceId": "am_liam::en-us",
+      "label": "Liam",
+      "language": "en-us",
+      "gender": "male",
+      "file": "kokoro/en-us/am_liam-en-us.mp3",
+      "license": "Apache-2.0"
+    },
+    {
+      "engine": "kokoro",
+      "voiceId": "am_michael::en-us",
+      "label": "Michael",
+      "language": "en-us",
+      "gender": "male",
+      "file": "kokoro/en-us/am_michael-en-us.mp3",
+      "license": "Apache-2.0"
+    },
+    {
+      "engine": "kokoro",
+      "voiceId": "am_onyx::en-us",
+      "label": "Onyx",
+      "language": "en-us",
+      "gender": "male",
+      "file": "kokoro/en-us/am_onyx-en-us.mp3",
+      "license": "Apache-2.0"
+    },
+    {
+      "engine": "kokoro",
+      "voiceId": "am_puck::en-us",
+      "label": "Puck",
+      "language": "en-us",
+      "gender": "male",
+      "file": "kokoro/en-us/am_puck-en-us.mp3",
+      "license": "Apache-2.0"
+    },
+    {
+      "engine": "kokoro",
+      "voiceId": "am_santa::en-us",
+      "label": "Santa",
+      "language": "en-us",
+      "gender": "male",
+      "file": "kokoro/en-us/am_santa-en-us.mp3",
+      "license": "Apache-2.0"
+    },
+    {
+      "engine": "kokoro",
+      "voiceId": "ef_dora::es-419",
+      "label": "Dora",
+      "language": "es-419",
+      "gender": "female",
+      "file": "kokoro/es-419/ef_dora-es-419.mp3",
+      "license": "Apache-2.0"
+    },
+    {
+      "engine": "kokoro",
+      "voiceId": "em_alex::es-419",
+      "label": "Alex",
+      "language": "es-419",
+      "gender": "male",
+      "file": "kokoro/es-419/em_alex-es-419.mp3",
+      "license": "Apache-2.0"
+    },
+    {
+      "engine": "kokoro",
+      "voiceId": "em_santa::es-419",
+      "label": "Santa",
+      "language": "es-419",
+      "gender": "male",
+      "file": "kokoro/es-419/em_santa-es-419.mp3",
+      "license": "Apache-2.0"
+    },
+    {
+      "engine": "kokoro",
+      "voiceId": "ef_dora::es",
+      "label": "Dora",
+      "language": "es",
+      "gender": "female",
+      "file": "kokoro/es/ef_dora-es.mp3",
+      "license": "Apache-2.0"
+    },
+    {
+      "engine": "kokoro",
+      "voiceId": "em_alex::es",
+      "label": "Alex",
+      "language": "es",
+      "gender": "male",
+      "file": "kokoro/es/em_alex-es.mp3",
+      "license": "Apache-2.0"
+    },
+    {
+      "engine": "kokoro",
+      "voiceId": "em_santa::es",
+      "label": "Santa",
+      "language": "es",
+      "gender": "male",
+      "file": "kokoro/es/em_santa-es.mp3",
+      "license": "Apache-2.0"
+    },
+    {
+      "engine": "kokoro",
+      "voiceId": "ff_siwis::fr-fr",
+      "label": "Siwis",
+      "language": "fr-fr",
+      "gender": "female",
+      "file": "kokoro/fr-fr/ff_siwis-fr-fr.mp3",
+      "license": "Apache-2.0"
+    },
+    {
+      "engine": "kokoro",
+      "voiceId": "hf_alpha::hi",
+      "label": "Alpha",
+      "language": "hi",
+      "gender": "female",
+      "file": "kokoro/hi/hf_alpha-hi.mp3",
+      "license": "Apache-2.0"
+    },
+    {
+      "engine": "kokoro",
+      "voiceId": "hf_beta::hi",
+      "label": "Beta",
+      "language": "hi",
+      "gender": "female",
+      "file": "kokoro/hi/hf_beta-hi.mp3",
+      "license": "Apache-2.0"
+    },
+    {
+      "engine": "kokoro",
+      "voiceId": "hm_omega::hi",
+      "label": "Omega",
+      "language": "hi",
+      "gender": "male",
+      "file": "kokoro/hi/hm_omega-hi.mp3",
+      "license": "Apache-2.0"
+    },
+    {
+      "engine": "kokoro",
+      "voiceId": "hm_psi::hi",
+      "label": "Psi",
+      "language": "hi",
+      "gender": "male",
+      "file": "kokoro/hi/hm_psi-hi.mp3",
+      "license": "Apache-2.0"
+    },
+    {
+      "engine": "kokoro",
+      "voiceId": "if_sara::it",
+      "label": "Sara",
+      "language": "it",
+      "gender": "female",
+      "file": "kokoro/it/if_sara-it.mp3",
+      "license": "Apache-2.0"
+    },
+    {
+      "engine": "kokoro",
+      "voiceId": "im_nicola::it",
+      "label": "Nicola",
+      "language": "it",
+      "gender": "male",
+      "file": "kokoro/it/im_nicola-it.mp3",
+      "license": "Apache-2.0"
+    },
+    {
+      "engine": "kokoro",
+      "voiceId": "pf_dora::pt-br",
+      "label": "Dora",
+      "language": "pt-br",
+      "gender": "female",
+      "file": "kokoro/pt-br/pf_dora-pt-br.mp3",
+      "license": "Apache-2.0"
+    },
+    {
+      "engine": "kokoro",
+      "voiceId": "pm_alex::pt-br",
+      "label": "Alex",
+      "language": "pt-br",
+      "gender": "male",
+      "file": "kokoro/pt-br/pm_alex-pt-br.mp3",
+      "license": "Apache-2.0"
+    },
+    {
+      "engine": "kokoro",
+      "voiceId": "pm_santa::pt-br",
+      "label": "Santa",
+      "language": "pt-br",
+      "gender": "male",
+      "file": "kokoro/pt-br/pm_santa-pt-br.mp3",
+      "license": "Apache-2.0"
+    },
+    {
+      "engine": "kokoro",
+      "voiceId": "zf_xiaobei::zh",
+      "label": "Xiaobei",
+      "language": "zh",
+      "gender": "female",
+      "file": "kokoro/zh/zf_xiaobei-zh.mp3",
+      "license": "Apache-2.0"
+    },
+    {
+      "engine": "kokoro",
+      "voiceId": "zf_xiaoni::zh",
+      "label": "Xiaoni",
+      "language": "zh",
+      "gender": "female",
+      "file": "kokoro/zh/zf_xiaoni-zh.mp3",
+      "license": "Apache-2.0"
+    },
+    {
+      "engine": "kokoro",
+      "voiceId": "zf_xiaoxiao::zh",
+      "label": "Xiaoxiao",
+      "language": "zh",
+      "gender": "female",
+      "file": "kokoro/zh/zf_xiaoxiao-zh.mp3",
+      "license": "Apache-2.0"
+    },
+    {
+      "engine": "kokoro",
+      "voiceId": "zf_xiaoyi::zh",
+      "label": "Xiaoyi",
+      "language": "zh",
+      "gender": "female",
+      "file": "kokoro/zh/zf_xiaoyi-zh.mp3",
+      "license": "Apache-2.0"
+    },
+    {
+      "engine": "kokoro",
+      "voiceId": "zm_yunjian::zh",
+      "label": "Yunjian",
+      "language": "zh",
+      "gender": "male",
+      "file": "kokoro/zh/zm_yunjian-zh.mp3",
+      "license": "Apache-2.0"
+    },
+    {
+      "engine": "kokoro",
+      "voiceId": "zm_yunxi::zh",
+      "label": "Yunxi",
+      "language": "zh",
+      "gender": "male",
+      "file": "kokoro/zh/zm_yunxi-zh.mp3",
+      "license": "Apache-2.0"
+    },
+    {
+      "engine": "kokoro",
+      "voiceId": "zm_yunxia::zh",
+      "label": "Yunxia",
+      "language": "zh",
+      "gender": "male",
+      "file": "kokoro/zh/zm_yunxia-zh.mp3",
+      "license": "Apache-2.0"
+    },
+    {
+      "engine": "kokoro",
+      "voiceId": "zm_yunyang::zh",
+      "label": "Yunyang",
+      "language": "zh",
+      "gender": "male",
+      "file": "kokoro/zh/zm_yunyang-zh.mp3",
+      "license": "Apache-2.0"
+    },
+    {
+      "engine": "melo",
+      "voiceId": "zh_en",
+      "label": "Mandarin",
+      "language": "zh-cn",
+      "gender": "female",
+      "file": "melo/zh-cn/zh_en.mp3",
+      "license": "MIT"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F1::ar",
+      "label": "Sarah",
+      "language": "ar",
+      "gender": "female",
+      "file": "supertonic/ar/F1-ar.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F2::ar",
+      "label": "Lily",
+      "language": "ar",
+      "gender": "female",
+      "file": "supertonic/ar/F2-ar.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F3::ar",
+      "label": "Jessica",
+      "language": "ar",
+      "gender": "female",
+      "file": "supertonic/ar/F3-ar.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F4::ar",
+      "label": "Olivia",
+      "language": "ar",
+      "gender": "female",
+      "file": "supertonic/ar/F4-ar.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F5::ar",
+      "label": "Emily",
+      "language": "ar",
+      "gender": "female",
+      "file": "supertonic/ar/F5-ar.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M1::ar",
+      "label": "Alex",
+      "language": "ar",
+      "gender": "male",
+      "file": "supertonic/ar/M1-ar.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M2::ar",
+      "label": "James",
+      "language": "ar",
+      "gender": "male",
+      "file": "supertonic/ar/M2-ar.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M3::ar",
+      "label": "Robert",
+      "language": "ar",
+      "gender": "male",
+      "file": "supertonic/ar/M3-ar.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M4::ar",
+      "label": "Sam",
+      "language": "ar",
+      "gender": "male",
+      "file": "supertonic/ar/M4-ar.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M5::ar",
+      "label": "Daniel",
+      "language": "ar",
+      "gender": "male",
+      "file": "supertonic/ar/M5-ar.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F1::bg",
+      "label": "Sarah",
+      "language": "bg",
+      "gender": "female",
+      "file": "supertonic/bg/F1-bg.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F2::bg",
+      "label": "Lily",
+      "language": "bg",
+      "gender": "female",
+      "file": "supertonic/bg/F2-bg.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F3::bg",
+      "label": "Jessica",
+      "language": "bg",
+      "gender": "female",
+      "file": "supertonic/bg/F3-bg.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F4::bg",
+      "label": "Olivia",
+      "language": "bg",
+      "gender": "female",
+      "file": "supertonic/bg/F4-bg.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F5::bg",
+      "label": "Emily",
+      "language": "bg",
+      "gender": "female",
+      "file": "supertonic/bg/F5-bg.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M1::bg",
+      "label": "Alex",
+      "language": "bg",
+      "gender": "male",
+      "file": "supertonic/bg/M1-bg.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M2::bg",
+      "label": "James",
+      "language": "bg",
+      "gender": "male",
+      "file": "supertonic/bg/M2-bg.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M3::bg",
+      "label": "Robert",
+      "language": "bg",
+      "gender": "male",
+      "file": "supertonic/bg/M3-bg.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M4::bg",
+      "label": "Sam",
+      "language": "bg",
+      "gender": "male",
+      "file": "supertonic/bg/M4-bg.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M5::bg",
+      "label": "Daniel",
+      "language": "bg",
+      "gender": "male",
+      "file": "supertonic/bg/M5-bg.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F1::cs",
+      "label": "Sarah",
+      "language": "cs",
+      "gender": "female",
+      "file": "supertonic/cs/F1-cs.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F2::cs",
+      "label": "Lily",
+      "language": "cs",
+      "gender": "female",
+      "file": "supertonic/cs/F2-cs.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F3::cs",
+      "label": "Jessica",
+      "language": "cs",
+      "gender": "female",
+      "file": "supertonic/cs/F3-cs.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F4::cs",
+      "label": "Olivia",
+      "language": "cs",
+      "gender": "female",
+      "file": "supertonic/cs/F4-cs.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F5::cs",
+      "label": "Emily",
+      "language": "cs",
+      "gender": "female",
+      "file": "supertonic/cs/F5-cs.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M1::cs",
+      "label": "Alex",
+      "language": "cs",
+      "gender": "male",
+      "file": "supertonic/cs/M1-cs.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M2::cs",
+      "label": "James",
+      "language": "cs",
+      "gender": "male",
+      "file": "supertonic/cs/M2-cs.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M3::cs",
+      "label": "Robert",
+      "language": "cs",
+      "gender": "male",
+      "file": "supertonic/cs/M3-cs.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M4::cs",
+      "label": "Sam",
+      "language": "cs",
+      "gender": "male",
+      "file": "supertonic/cs/M4-cs.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M5::cs",
+      "label": "Daniel",
+      "language": "cs",
+      "gender": "male",
+      "file": "supertonic/cs/M5-cs.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F1::da",
+      "label": "Sarah",
+      "language": "da",
+      "gender": "female",
+      "file": "supertonic/da/F1-da.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F2::da",
+      "label": "Lily",
+      "language": "da",
+      "gender": "female",
+      "file": "supertonic/da/F2-da.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F3::da",
+      "label": "Jessica",
+      "language": "da",
+      "gender": "female",
+      "file": "supertonic/da/F3-da.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F4::da",
+      "label": "Olivia",
+      "language": "da",
+      "gender": "female",
+      "file": "supertonic/da/F4-da.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F5::da",
+      "label": "Emily",
+      "language": "da",
+      "gender": "female",
+      "file": "supertonic/da/F5-da.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M1::da",
+      "label": "Alex",
+      "language": "da",
+      "gender": "male",
+      "file": "supertonic/da/M1-da.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M2::da",
+      "label": "James",
+      "language": "da",
+      "gender": "male",
+      "file": "supertonic/da/M2-da.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M3::da",
+      "label": "Robert",
+      "language": "da",
+      "gender": "male",
+      "file": "supertonic/da/M3-da.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M4::da",
+      "label": "Sam",
+      "language": "da",
+      "gender": "male",
+      "file": "supertonic/da/M4-da.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M5::da",
+      "label": "Daniel",
+      "language": "da",
+      "gender": "male",
+      "file": "supertonic/da/M5-da.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F1::de",
+      "label": "Sarah",
+      "language": "de",
+      "gender": "female",
+      "file": "supertonic/de/F1-de.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F2::de",
+      "label": "Lily",
+      "language": "de",
+      "gender": "female",
+      "file": "supertonic/de/F2-de.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F3::de",
+      "label": "Jessica",
+      "language": "de",
+      "gender": "female",
+      "file": "supertonic/de/F3-de.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F4::de",
+      "label": "Olivia",
+      "language": "de",
+      "gender": "female",
+      "file": "supertonic/de/F4-de.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F5::de",
+      "label": "Emily",
+      "language": "de",
+      "gender": "female",
+      "file": "supertonic/de/F5-de.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M1::de",
+      "label": "Alex",
+      "language": "de",
+      "gender": "male",
+      "file": "supertonic/de/M1-de.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M2::de",
+      "label": "James",
+      "language": "de",
+      "gender": "male",
+      "file": "supertonic/de/M2-de.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M3::de",
+      "label": "Robert",
+      "language": "de",
+      "gender": "male",
+      "file": "supertonic/de/M3-de.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M4::de",
+      "label": "Sam",
+      "language": "de",
+      "gender": "male",
+      "file": "supertonic/de/M4-de.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M5::de",
+      "label": "Daniel",
+      "language": "de",
+      "gender": "male",
+      "file": "supertonic/de/M5-de.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F1::el",
+      "label": "Sarah",
+      "language": "el",
+      "gender": "female",
+      "file": "supertonic/el/F1-el.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F2::el",
+      "label": "Lily",
+      "language": "el",
+      "gender": "female",
+      "file": "supertonic/el/F2-el.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F3::el",
+      "label": "Jessica",
+      "language": "el",
+      "gender": "female",
+      "file": "supertonic/el/F3-el.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F4::el",
+      "label": "Olivia",
+      "language": "el",
+      "gender": "female",
+      "file": "supertonic/el/F4-el.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F5::el",
+      "label": "Emily",
+      "language": "el",
+      "gender": "female",
+      "file": "supertonic/el/F5-el.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M1::el",
+      "label": "Alex",
+      "language": "el",
+      "gender": "male",
+      "file": "supertonic/el/M1-el.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M2::el",
+      "label": "James",
+      "language": "el",
+      "gender": "male",
+      "file": "supertonic/el/M2-el.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M3::el",
+      "label": "Robert",
+      "language": "el",
+      "gender": "male",
+      "file": "supertonic/el/M3-el.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M4::el",
+      "label": "Sam",
+      "language": "el",
+      "gender": "male",
+      "file": "supertonic/el/M4-el.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M5::el",
+      "label": "Daniel",
+      "language": "el",
+      "gender": "male",
+      "file": "supertonic/el/M5-el.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F1::en",
+      "label": "Sarah",
+      "language": "en",
+      "gender": "female",
+      "file": "supertonic/en/F1-en.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F2::en",
+      "label": "Lily",
+      "language": "en",
+      "gender": "female",
+      "file": "supertonic/en/F2-en.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F3::en",
+      "label": "Jessica",
+      "language": "en",
+      "gender": "female",
+      "file": "supertonic/en/F3-en.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F4::en",
+      "label": "Olivia",
+      "language": "en",
+      "gender": "female",
+      "file": "supertonic/en/F4-en.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F5::en",
+      "label": "Emily",
+      "language": "en",
+      "gender": "female",
+      "file": "supertonic/en/F5-en.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M1::en",
+      "label": "Alex",
+      "language": "en",
+      "gender": "male",
+      "file": "supertonic/en/M1-en.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M2::en",
+      "label": "James",
+      "language": "en",
+      "gender": "male",
+      "file": "supertonic/en/M2-en.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M3::en",
+      "label": "Robert",
+      "language": "en",
+      "gender": "male",
+      "file": "supertonic/en/M3-en.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M4::en",
+      "label": "Sam",
+      "language": "en",
+      "gender": "male",
+      "file": "supertonic/en/M4-en.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M5::en",
+      "label": "Daniel",
+      "language": "en",
+      "gender": "male",
+      "file": "supertonic/en/M5-en.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F1::es",
+      "label": "Sarah",
+      "language": "es",
+      "gender": "female",
+      "file": "supertonic/es/F1-es.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F2::es",
+      "label": "Lily",
+      "language": "es",
+      "gender": "female",
+      "file": "supertonic/es/F2-es.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F3::es",
+      "label": "Jessica",
+      "language": "es",
+      "gender": "female",
+      "file": "supertonic/es/F3-es.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F4::es",
+      "label": "Olivia",
+      "language": "es",
+      "gender": "female",
+      "file": "supertonic/es/F4-es.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F5::es",
+      "label": "Emily",
+      "language": "es",
+      "gender": "female",
+      "file": "supertonic/es/F5-es.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M1::es",
+      "label": "Alex",
+      "language": "es",
+      "gender": "male",
+      "file": "supertonic/es/M1-es.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M2::es",
+      "label": "James",
+      "language": "es",
+      "gender": "male",
+      "file": "supertonic/es/M2-es.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M3::es",
+      "label": "Robert",
+      "language": "es",
+      "gender": "male",
+      "file": "supertonic/es/M3-es.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M4::es",
+      "label": "Sam",
+      "language": "es",
+      "gender": "male",
+      "file": "supertonic/es/M4-es.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M5::es",
+      "label": "Daniel",
+      "language": "es",
+      "gender": "male",
+      "file": "supertonic/es/M5-es.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F1::et",
+      "label": "Sarah",
+      "language": "et",
+      "gender": "female",
+      "file": "supertonic/et/F1-et.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F2::et",
+      "label": "Lily",
+      "language": "et",
+      "gender": "female",
+      "file": "supertonic/et/F2-et.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F3::et",
+      "label": "Jessica",
+      "language": "et",
+      "gender": "female",
+      "file": "supertonic/et/F3-et.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F4::et",
+      "label": "Olivia",
+      "language": "et",
+      "gender": "female",
+      "file": "supertonic/et/F4-et.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F5::et",
+      "label": "Emily",
+      "language": "et",
+      "gender": "female",
+      "file": "supertonic/et/F5-et.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M1::et",
+      "label": "Alex",
+      "language": "et",
+      "gender": "male",
+      "file": "supertonic/et/M1-et.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M2::et",
+      "label": "James",
+      "language": "et",
+      "gender": "male",
+      "file": "supertonic/et/M2-et.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M3::et",
+      "label": "Robert",
+      "language": "et",
+      "gender": "male",
+      "file": "supertonic/et/M3-et.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M4::et",
+      "label": "Sam",
+      "language": "et",
+      "gender": "male",
+      "file": "supertonic/et/M4-et.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M5::et",
+      "label": "Daniel",
+      "language": "et",
+      "gender": "male",
+      "file": "supertonic/et/M5-et.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F1::fi",
+      "label": "Sarah",
+      "language": "fi",
+      "gender": "female",
+      "file": "supertonic/fi/F1-fi.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F2::fi",
+      "label": "Lily",
+      "language": "fi",
+      "gender": "female",
+      "file": "supertonic/fi/F2-fi.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F3::fi",
+      "label": "Jessica",
+      "language": "fi",
+      "gender": "female",
+      "file": "supertonic/fi/F3-fi.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F4::fi",
+      "label": "Olivia",
+      "language": "fi",
+      "gender": "female",
+      "file": "supertonic/fi/F4-fi.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F5::fi",
+      "label": "Emily",
+      "language": "fi",
+      "gender": "female",
+      "file": "supertonic/fi/F5-fi.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M1::fi",
+      "label": "Alex",
+      "language": "fi",
+      "gender": "male",
+      "file": "supertonic/fi/M1-fi.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M2::fi",
+      "label": "James",
+      "language": "fi",
+      "gender": "male",
+      "file": "supertonic/fi/M2-fi.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M3::fi",
+      "label": "Robert",
+      "language": "fi",
+      "gender": "male",
+      "file": "supertonic/fi/M3-fi.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M4::fi",
+      "label": "Sam",
+      "language": "fi",
+      "gender": "male",
+      "file": "supertonic/fi/M4-fi.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M5::fi",
+      "label": "Daniel",
+      "language": "fi",
+      "gender": "male",
+      "file": "supertonic/fi/M5-fi.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F1::fr",
+      "label": "Sarah",
+      "language": "fr",
+      "gender": "female",
+      "file": "supertonic/fr/F1-fr.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F2::fr",
+      "label": "Lily",
+      "language": "fr",
+      "gender": "female",
+      "file": "supertonic/fr/F2-fr.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F3::fr",
+      "label": "Jessica",
+      "language": "fr",
+      "gender": "female",
+      "file": "supertonic/fr/F3-fr.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F4::fr",
+      "label": "Olivia",
+      "language": "fr",
+      "gender": "female",
+      "file": "supertonic/fr/F4-fr.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F5::fr",
+      "label": "Emily",
+      "language": "fr",
+      "gender": "female",
+      "file": "supertonic/fr/F5-fr.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M1::fr",
+      "label": "Alex",
+      "language": "fr",
+      "gender": "male",
+      "file": "supertonic/fr/M1-fr.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M2::fr",
+      "label": "James",
+      "language": "fr",
+      "gender": "male",
+      "file": "supertonic/fr/M2-fr.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M3::fr",
+      "label": "Robert",
+      "language": "fr",
+      "gender": "male",
+      "file": "supertonic/fr/M3-fr.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M4::fr",
+      "label": "Sam",
+      "language": "fr",
+      "gender": "male",
+      "file": "supertonic/fr/M4-fr.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M5::fr",
+      "label": "Daniel",
+      "language": "fr",
+      "gender": "male",
+      "file": "supertonic/fr/M5-fr.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F1::hi",
+      "label": "Sarah",
+      "language": "hi",
+      "gender": "female",
+      "file": "supertonic/hi/F1-hi.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F2::hi",
+      "label": "Lily",
+      "language": "hi",
+      "gender": "female",
+      "file": "supertonic/hi/F2-hi.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F3::hi",
+      "label": "Jessica",
+      "language": "hi",
+      "gender": "female",
+      "file": "supertonic/hi/F3-hi.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F4::hi",
+      "label": "Olivia",
+      "language": "hi",
+      "gender": "female",
+      "file": "supertonic/hi/F4-hi.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F5::hi",
+      "label": "Emily",
+      "language": "hi",
+      "gender": "female",
+      "file": "supertonic/hi/F5-hi.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M1::hi",
+      "label": "Alex",
+      "language": "hi",
+      "gender": "male",
+      "file": "supertonic/hi/M1-hi.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M2::hi",
+      "label": "James",
+      "language": "hi",
+      "gender": "male",
+      "file": "supertonic/hi/M2-hi.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M3::hi",
+      "label": "Robert",
+      "language": "hi",
+      "gender": "male",
+      "file": "supertonic/hi/M3-hi.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M4::hi",
+      "label": "Sam",
+      "language": "hi",
+      "gender": "male",
+      "file": "supertonic/hi/M4-hi.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M5::hi",
+      "label": "Daniel",
+      "language": "hi",
+      "gender": "male",
+      "file": "supertonic/hi/M5-hi.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F1::hr",
+      "label": "Sarah",
+      "language": "hr",
+      "gender": "female",
+      "file": "supertonic/hr/F1-hr.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F2::hr",
+      "label": "Lily",
+      "language": "hr",
+      "gender": "female",
+      "file": "supertonic/hr/F2-hr.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F3::hr",
+      "label": "Jessica",
+      "language": "hr",
+      "gender": "female",
+      "file": "supertonic/hr/F3-hr.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F4::hr",
+      "label": "Olivia",
+      "language": "hr",
+      "gender": "female",
+      "file": "supertonic/hr/F4-hr.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F5::hr",
+      "label": "Emily",
+      "language": "hr",
+      "gender": "female",
+      "file": "supertonic/hr/F5-hr.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M1::hr",
+      "label": "Alex",
+      "language": "hr",
+      "gender": "male",
+      "file": "supertonic/hr/M1-hr.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M2::hr",
+      "label": "James",
+      "language": "hr",
+      "gender": "male",
+      "file": "supertonic/hr/M2-hr.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M3::hr",
+      "label": "Robert",
+      "language": "hr",
+      "gender": "male",
+      "file": "supertonic/hr/M3-hr.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M4::hr",
+      "label": "Sam",
+      "language": "hr",
+      "gender": "male",
+      "file": "supertonic/hr/M4-hr.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M5::hr",
+      "label": "Daniel",
+      "language": "hr",
+      "gender": "male",
+      "file": "supertonic/hr/M5-hr.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F1::hu",
+      "label": "Sarah",
+      "language": "hu",
+      "gender": "female",
+      "file": "supertonic/hu/F1-hu.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F2::hu",
+      "label": "Lily",
+      "language": "hu",
+      "gender": "female",
+      "file": "supertonic/hu/F2-hu.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F3::hu",
+      "label": "Jessica",
+      "language": "hu",
+      "gender": "female",
+      "file": "supertonic/hu/F3-hu.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F4::hu",
+      "label": "Olivia",
+      "language": "hu",
+      "gender": "female",
+      "file": "supertonic/hu/F4-hu.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F5::hu",
+      "label": "Emily",
+      "language": "hu",
+      "gender": "female",
+      "file": "supertonic/hu/F5-hu.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M1::hu",
+      "label": "Alex",
+      "language": "hu",
+      "gender": "male",
+      "file": "supertonic/hu/M1-hu.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M2::hu",
+      "label": "James",
+      "language": "hu",
+      "gender": "male",
+      "file": "supertonic/hu/M2-hu.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M3::hu",
+      "label": "Robert",
+      "language": "hu",
+      "gender": "male",
+      "file": "supertonic/hu/M3-hu.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M4::hu",
+      "label": "Sam",
+      "language": "hu",
+      "gender": "male",
+      "file": "supertonic/hu/M4-hu.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M5::hu",
+      "label": "Daniel",
+      "language": "hu",
+      "gender": "male",
+      "file": "supertonic/hu/M5-hu.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F1::id",
+      "label": "Sarah",
+      "language": "id",
+      "gender": "female",
+      "file": "supertonic/id/F1-id.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F2::id",
+      "label": "Lily",
+      "language": "id",
+      "gender": "female",
+      "file": "supertonic/id/F2-id.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F3::id",
+      "label": "Jessica",
+      "language": "id",
+      "gender": "female",
+      "file": "supertonic/id/F3-id.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F4::id",
+      "label": "Olivia",
+      "language": "id",
+      "gender": "female",
+      "file": "supertonic/id/F4-id.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F5::id",
+      "label": "Emily",
+      "language": "id",
+      "gender": "female",
+      "file": "supertonic/id/F5-id.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M1::id",
+      "label": "Alex",
+      "language": "id",
+      "gender": "male",
+      "file": "supertonic/id/M1-id.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M2::id",
+      "label": "James",
+      "language": "id",
+      "gender": "male",
+      "file": "supertonic/id/M2-id.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M3::id",
+      "label": "Robert",
+      "language": "id",
+      "gender": "male",
+      "file": "supertonic/id/M3-id.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M4::id",
+      "label": "Sam",
+      "language": "id",
+      "gender": "male",
+      "file": "supertonic/id/M4-id.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M5::id",
+      "label": "Daniel",
+      "language": "id",
+      "gender": "male",
+      "file": "supertonic/id/M5-id.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F1::it",
+      "label": "Sarah",
+      "language": "it",
+      "gender": "female",
+      "file": "supertonic/it/F1-it.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F2::it",
+      "label": "Lily",
+      "language": "it",
+      "gender": "female",
+      "file": "supertonic/it/F2-it.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F3::it",
+      "label": "Jessica",
+      "language": "it",
+      "gender": "female",
+      "file": "supertonic/it/F3-it.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F4::it",
+      "label": "Olivia",
+      "language": "it",
+      "gender": "female",
+      "file": "supertonic/it/F4-it.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F5::it",
+      "label": "Emily",
+      "language": "it",
+      "gender": "female",
+      "file": "supertonic/it/F5-it.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M1::it",
+      "label": "Alex",
+      "language": "it",
+      "gender": "male",
+      "file": "supertonic/it/M1-it.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M2::it",
+      "label": "James",
+      "language": "it",
+      "gender": "male",
+      "file": "supertonic/it/M2-it.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M3::it",
+      "label": "Robert",
+      "language": "it",
+      "gender": "male",
+      "file": "supertonic/it/M3-it.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M4::it",
+      "label": "Sam",
+      "language": "it",
+      "gender": "male",
+      "file": "supertonic/it/M4-it.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M5::it",
+      "label": "Daniel",
+      "language": "it",
+      "gender": "male",
+      "file": "supertonic/it/M5-it.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F1::ja",
+      "label": "Sarah",
+      "language": "ja",
+      "gender": "female",
+      "file": "supertonic/ja/F1-ja.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F2::ja",
+      "label": "Lily",
+      "language": "ja",
+      "gender": "female",
+      "file": "supertonic/ja/F2-ja.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F3::ja",
+      "label": "Jessica",
+      "language": "ja",
+      "gender": "female",
+      "file": "supertonic/ja/F3-ja.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F4::ja",
+      "label": "Olivia",
+      "language": "ja",
+      "gender": "female",
+      "file": "supertonic/ja/F4-ja.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F5::ja",
+      "label": "Emily",
+      "language": "ja",
+      "gender": "female",
+      "file": "supertonic/ja/F5-ja.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M1::ja",
+      "label": "Alex",
+      "language": "ja",
+      "gender": "male",
+      "file": "supertonic/ja/M1-ja.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M2::ja",
+      "label": "James",
+      "language": "ja",
+      "gender": "male",
+      "file": "supertonic/ja/M2-ja.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M3::ja",
+      "label": "Robert",
+      "language": "ja",
+      "gender": "male",
+      "file": "supertonic/ja/M3-ja.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M4::ja",
+      "label": "Sam",
+      "language": "ja",
+      "gender": "male",
+      "file": "supertonic/ja/M4-ja.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M5::ja",
+      "label": "Daniel",
+      "language": "ja",
+      "gender": "male",
+      "file": "supertonic/ja/M5-ja.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F1::ko",
+      "label": "Sarah",
+      "language": "ko",
+      "gender": "female",
+      "file": "supertonic/ko/F1-ko.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F2::ko",
+      "label": "Lily",
+      "language": "ko",
+      "gender": "female",
+      "file": "supertonic/ko/F2-ko.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F3::ko",
+      "label": "Jessica",
+      "language": "ko",
+      "gender": "female",
+      "file": "supertonic/ko/F3-ko.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F4::ko",
+      "label": "Olivia",
+      "language": "ko",
+      "gender": "female",
+      "file": "supertonic/ko/F4-ko.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F5::ko",
+      "label": "Emily",
+      "language": "ko",
+      "gender": "female",
+      "file": "supertonic/ko/F5-ko.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M1::ko",
+      "label": "Alex",
+      "language": "ko",
+      "gender": "male",
+      "file": "supertonic/ko/M1-ko.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M2::ko",
+      "label": "James",
+      "language": "ko",
+      "gender": "male",
+      "file": "supertonic/ko/M2-ko.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M3::ko",
+      "label": "Robert",
+      "language": "ko",
+      "gender": "male",
+      "file": "supertonic/ko/M3-ko.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M4::ko",
+      "label": "Sam",
+      "language": "ko",
+      "gender": "male",
+      "file": "supertonic/ko/M4-ko.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M5::ko",
+      "label": "Daniel",
+      "language": "ko",
+      "gender": "male",
+      "file": "supertonic/ko/M5-ko.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F1::lt",
+      "label": "Sarah",
+      "language": "lt",
+      "gender": "female",
+      "file": "supertonic/lt/F1-lt.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F2::lt",
+      "label": "Lily",
+      "language": "lt",
+      "gender": "female",
+      "file": "supertonic/lt/F2-lt.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F3::lt",
+      "label": "Jessica",
+      "language": "lt",
+      "gender": "female",
+      "file": "supertonic/lt/F3-lt.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F4::lt",
+      "label": "Olivia",
+      "language": "lt",
+      "gender": "female",
+      "file": "supertonic/lt/F4-lt.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F5::lt",
+      "label": "Emily",
+      "language": "lt",
+      "gender": "female",
+      "file": "supertonic/lt/F5-lt.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M1::lt",
+      "label": "Alex",
+      "language": "lt",
+      "gender": "male",
+      "file": "supertonic/lt/M1-lt.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M2::lt",
+      "label": "James",
+      "language": "lt",
+      "gender": "male",
+      "file": "supertonic/lt/M2-lt.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M3::lt",
+      "label": "Robert",
+      "language": "lt",
+      "gender": "male",
+      "file": "supertonic/lt/M3-lt.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M4::lt",
+      "label": "Sam",
+      "language": "lt",
+      "gender": "male",
+      "file": "supertonic/lt/M4-lt.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M5::lt",
+      "label": "Daniel",
+      "language": "lt",
+      "gender": "male",
+      "file": "supertonic/lt/M5-lt.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F1::lv",
+      "label": "Sarah",
+      "language": "lv",
+      "gender": "female",
+      "file": "supertonic/lv/F1-lv.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F2::lv",
+      "label": "Lily",
+      "language": "lv",
+      "gender": "female",
+      "file": "supertonic/lv/F2-lv.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F3::lv",
+      "label": "Jessica",
+      "language": "lv",
+      "gender": "female",
+      "file": "supertonic/lv/F3-lv.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F4::lv",
+      "label": "Olivia",
+      "language": "lv",
+      "gender": "female",
+      "file": "supertonic/lv/F4-lv.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F5::lv",
+      "label": "Emily",
+      "language": "lv",
+      "gender": "female",
+      "file": "supertonic/lv/F5-lv.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M1::lv",
+      "label": "Alex",
+      "language": "lv",
+      "gender": "male",
+      "file": "supertonic/lv/M1-lv.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M2::lv",
+      "label": "James",
+      "language": "lv",
+      "gender": "male",
+      "file": "supertonic/lv/M2-lv.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M3::lv",
+      "label": "Robert",
+      "language": "lv",
+      "gender": "male",
+      "file": "supertonic/lv/M3-lv.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M4::lv",
+      "label": "Sam",
+      "language": "lv",
+      "gender": "male",
+      "file": "supertonic/lv/M4-lv.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M5::lv",
+      "label": "Daniel",
+      "language": "lv",
+      "gender": "male",
+      "file": "supertonic/lv/M5-lv.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F1::nl",
+      "label": "Sarah",
+      "language": "nl",
+      "gender": "female",
+      "file": "supertonic/nl/F1-nl.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F2::nl",
+      "label": "Lily",
+      "language": "nl",
+      "gender": "female",
+      "file": "supertonic/nl/F2-nl.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F3::nl",
+      "label": "Jessica",
+      "language": "nl",
+      "gender": "female",
+      "file": "supertonic/nl/F3-nl.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F4::nl",
+      "label": "Olivia",
+      "language": "nl",
+      "gender": "female",
+      "file": "supertonic/nl/F4-nl.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F5::nl",
+      "label": "Emily",
+      "language": "nl",
+      "gender": "female",
+      "file": "supertonic/nl/F5-nl.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M1::nl",
+      "label": "Alex",
+      "language": "nl",
+      "gender": "male",
+      "file": "supertonic/nl/M1-nl.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M2::nl",
+      "label": "James",
+      "language": "nl",
+      "gender": "male",
+      "file": "supertonic/nl/M2-nl.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M3::nl",
+      "label": "Robert",
+      "language": "nl",
+      "gender": "male",
+      "file": "supertonic/nl/M3-nl.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M4::nl",
+      "label": "Sam",
+      "language": "nl",
+      "gender": "male",
+      "file": "supertonic/nl/M4-nl.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M5::nl",
+      "label": "Daniel",
+      "language": "nl",
+      "gender": "male",
+      "file": "supertonic/nl/M5-nl.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F1::pl",
+      "label": "Sarah",
+      "language": "pl",
+      "gender": "female",
+      "file": "supertonic/pl/F1-pl.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F2::pl",
+      "label": "Lily",
+      "language": "pl",
+      "gender": "female",
+      "file": "supertonic/pl/F2-pl.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F3::pl",
+      "label": "Jessica",
+      "language": "pl",
+      "gender": "female",
+      "file": "supertonic/pl/F3-pl.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F4::pl",
+      "label": "Olivia",
+      "language": "pl",
+      "gender": "female",
+      "file": "supertonic/pl/F4-pl.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F5::pl",
+      "label": "Emily",
+      "language": "pl",
+      "gender": "female",
+      "file": "supertonic/pl/F5-pl.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M1::pl",
+      "label": "Alex",
+      "language": "pl",
+      "gender": "male",
+      "file": "supertonic/pl/M1-pl.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M2::pl",
+      "label": "James",
+      "language": "pl",
+      "gender": "male",
+      "file": "supertonic/pl/M2-pl.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M3::pl",
+      "label": "Robert",
+      "language": "pl",
+      "gender": "male",
+      "file": "supertonic/pl/M3-pl.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M4::pl",
+      "label": "Sam",
+      "language": "pl",
+      "gender": "male",
+      "file": "supertonic/pl/M4-pl.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M5::pl",
+      "label": "Daniel",
+      "language": "pl",
+      "gender": "male",
+      "file": "supertonic/pl/M5-pl.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F1::pt",
+      "label": "Sarah",
+      "language": "pt",
+      "gender": "female",
+      "file": "supertonic/pt/F1-pt.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F2::pt",
+      "label": "Lily",
+      "language": "pt",
+      "gender": "female",
+      "file": "supertonic/pt/F2-pt.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F3::pt",
+      "label": "Jessica",
+      "language": "pt",
+      "gender": "female",
+      "file": "supertonic/pt/F3-pt.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F4::pt",
+      "label": "Olivia",
+      "language": "pt",
+      "gender": "female",
+      "file": "supertonic/pt/F4-pt.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F5::pt",
+      "label": "Emily",
+      "language": "pt",
+      "gender": "female",
+      "file": "supertonic/pt/F5-pt.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M1::pt",
+      "label": "Alex",
+      "language": "pt",
+      "gender": "male",
+      "file": "supertonic/pt/M1-pt.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M2::pt",
+      "label": "James",
+      "language": "pt",
+      "gender": "male",
+      "file": "supertonic/pt/M2-pt.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M3::pt",
+      "label": "Robert",
+      "language": "pt",
+      "gender": "male",
+      "file": "supertonic/pt/M3-pt.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M4::pt",
+      "label": "Sam",
+      "language": "pt",
+      "gender": "male",
+      "file": "supertonic/pt/M4-pt.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M5::pt",
+      "label": "Daniel",
+      "language": "pt",
+      "gender": "male",
+      "file": "supertonic/pt/M5-pt.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F1::ro",
+      "label": "Sarah",
+      "language": "ro",
+      "gender": "female",
+      "file": "supertonic/ro/F1-ro.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F2::ro",
+      "label": "Lily",
+      "language": "ro",
+      "gender": "female",
+      "file": "supertonic/ro/F2-ro.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F3::ro",
+      "label": "Jessica",
+      "language": "ro",
+      "gender": "female",
+      "file": "supertonic/ro/F3-ro.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F4::ro",
+      "label": "Olivia",
+      "language": "ro",
+      "gender": "female",
+      "file": "supertonic/ro/F4-ro.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F5::ro",
+      "label": "Emily",
+      "language": "ro",
+      "gender": "female",
+      "file": "supertonic/ro/F5-ro.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M1::ro",
+      "label": "Alex",
+      "language": "ro",
+      "gender": "male",
+      "file": "supertonic/ro/M1-ro.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M2::ro",
+      "label": "James",
+      "language": "ro",
+      "gender": "male",
+      "file": "supertonic/ro/M2-ro.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M3::ro",
+      "label": "Robert",
+      "language": "ro",
+      "gender": "male",
+      "file": "supertonic/ro/M3-ro.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M4::ro",
+      "label": "Sam",
+      "language": "ro",
+      "gender": "male",
+      "file": "supertonic/ro/M4-ro.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M5::ro",
+      "label": "Daniel",
+      "language": "ro",
+      "gender": "male",
+      "file": "supertonic/ro/M5-ro.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F1::ru",
+      "label": "Sarah",
+      "language": "ru",
+      "gender": "female",
+      "file": "supertonic/ru/F1-ru.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F2::ru",
+      "label": "Lily",
+      "language": "ru",
+      "gender": "female",
+      "file": "supertonic/ru/F2-ru.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F3::ru",
+      "label": "Jessica",
+      "language": "ru",
+      "gender": "female",
+      "file": "supertonic/ru/F3-ru.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F4::ru",
+      "label": "Olivia",
+      "language": "ru",
+      "gender": "female",
+      "file": "supertonic/ru/F4-ru.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F5::ru",
+      "label": "Emily",
+      "language": "ru",
+      "gender": "female",
+      "file": "supertonic/ru/F5-ru.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M1::ru",
+      "label": "Alex",
+      "language": "ru",
+      "gender": "male",
+      "file": "supertonic/ru/M1-ru.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M2::ru",
+      "label": "James",
+      "language": "ru",
+      "gender": "male",
+      "file": "supertonic/ru/M2-ru.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M3::ru",
+      "label": "Robert",
+      "language": "ru",
+      "gender": "male",
+      "file": "supertonic/ru/M3-ru.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M4::ru",
+      "label": "Sam",
+      "language": "ru",
+      "gender": "male",
+      "file": "supertonic/ru/M4-ru.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M5::ru",
+      "label": "Daniel",
+      "language": "ru",
+      "gender": "male",
+      "file": "supertonic/ru/M5-ru.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F1::sk",
+      "label": "Sarah",
+      "language": "sk",
+      "gender": "female",
+      "file": "supertonic/sk/F1-sk.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F2::sk",
+      "label": "Lily",
+      "language": "sk",
+      "gender": "female",
+      "file": "supertonic/sk/F2-sk.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F3::sk",
+      "label": "Jessica",
+      "language": "sk",
+      "gender": "female",
+      "file": "supertonic/sk/F3-sk.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F4::sk",
+      "label": "Olivia",
+      "language": "sk",
+      "gender": "female",
+      "file": "supertonic/sk/F4-sk.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F5::sk",
+      "label": "Emily",
+      "language": "sk",
+      "gender": "female",
+      "file": "supertonic/sk/F5-sk.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M1::sk",
+      "label": "Alex",
+      "language": "sk",
+      "gender": "male",
+      "file": "supertonic/sk/M1-sk.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M2::sk",
+      "label": "James",
+      "language": "sk",
+      "gender": "male",
+      "file": "supertonic/sk/M2-sk.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M3::sk",
+      "label": "Robert",
+      "language": "sk",
+      "gender": "male",
+      "file": "supertonic/sk/M3-sk.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M4::sk",
+      "label": "Sam",
+      "language": "sk",
+      "gender": "male",
+      "file": "supertonic/sk/M4-sk.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M5::sk",
+      "label": "Daniel",
+      "language": "sk",
+      "gender": "male",
+      "file": "supertonic/sk/M5-sk.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F1::sl",
+      "label": "Sarah",
+      "language": "sl",
+      "gender": "female",
+      "file": "supertonic/sl/F1-sl.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F2::sl",
+      "label": "Lily",
+      "language": "sl",
+      "gender": "female",
+      "file": "supertonic/sl/F2-sl.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F3::sl",
+      "label": "Jessica",
+      "language": "sl",
+      "gender": "female",
+      "file": "supertonic/sl/F3-sl.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F4::sl",
+      "label": "Olivia",
+      "language": "sl",
+      "gender": "female",
+      "file": "supertonic/sl/F4-sl.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F5::sl",
+      "label": "Emily",
+      "language": "sl",
+      "gender": "female",
+      "file": "supertonic/sl/F5-sl.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M1::sl",
+      "label": "Alex",
+      "language": "sl",
+      "gender": "male",
+      "file": "supertonic/sl/M1-sl.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M2::sl",
+      "label": "James",
+      "language": "sl",
+      "gender": "male",
+      "file": "supertonic/sl/M2-sl.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M3::sl",
+      "label": "Robert",
+      "language": "sl",
+      "gender": "male",
+      "file": "supertonic/sl/M3-sl.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M4::sl",
+      "label": "Sam",
+      "language": "sl",
+      "gender": "male",
+      "file": "supertonic/sl/M4-sl.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M5::sl",
+      "label": "Daniel",
+      "language": "sl",
+      "gender": "male",
+      "file": "supertonic/sl/M5-sl.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F1::sv",
+      "label": "Sarah",
+      "language": "sv",
+      "gender": "female",
+      "file": "supertonic/sv/F1-sv.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F2::sv",
+      "label": "Lily",
+      "language": "sv",
+      "gender": "female",
+      "file": "supertonic/sv/F2-sv.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F3::sv",
+      "label": "Jessica",
+      "language": "sv",
+      "gender": "female",
+      "file": "supertonic/sv/F3-sv.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F4::sv",
+      "label": "Olivia",
+      "language": "sv",
+      "gender": "female",
+      "file": "supertonic/sv/F4-sv.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F5::sv",
+      "label": "Emily",
+      "language": "sv",
+      "gender": "female",
+      "file": "supertonic/sv/F5-sv.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M1::sv",
+      "label": "Alex",
+      "language": "sv",
+      "gender": "male",
+      "file": "supertonic/sv/M1-sv.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M2::sv",
+      "label": "James",
+      "language": "sv",
+      "gender": "male",
+      "file": "supertonic/sv/M2-sv.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M3::sv",
+      "label": "Robert",
+      "language": "sv",
+      "gender": "male",
+      "file": "supertonic/sv/M3-sv.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M4::sv",
+      "label": "Sam",
+      "language": "sv",
+      "gender": "male",
+      "file": "supertonic/sv/M4-sv.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M5::sv",
+      "label": "Daniel",
+      "language": "sv",
+      "gender": "male",
+      "file": "supertonic/sv/M5-sv.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F1::tr",
+      "label": "Sarah",
+      "language": "tr",
+      "gender": "female",
+      "file": "supertonic/tr/F1-tr.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F2::tr",
+      "label": "Lily",
+      "language": "tr",
+      "gender": "female",
+      "file": "supertonic/tr/F2-tr.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F3::tr",
+      "label": "Jessica",
+      "language": "tr",
+      "gender": "female",
+      "file": "supertonic/tr/F3-tr.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F4::tr",
+      "label": "Olivia",
+      "language": "tr",
+      "gender": "female",
+      "file": "supertonic/tr/F4-tr.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F5::tr",
+      "label": "Emily",
+      "language": "tr",
+      "gender": "female",
+      "file": "supertonic/tr/F5-tr.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M1::tr",
+      "label": "Alex",
+      "language": "tr",
+      "gender": "male",
+      "file": "supertonic/tr/M1-tr.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M2::tr",
+      "label": "James",
+      "language": "tr",
+      "gender": "male",
+      "file": "supertonic/tr/M2-tr.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M3::tr",
+      "label": "Robert",
+      "language": "tr",
+      "gender": "male",
+      "file": "supertonic/tr/M3-tr.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M4::tr",
+      "label": "Sam",
+      "language": "tr",
+      "gender": "male",
+      "file": "supertonic/tr/M4-tr.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M5::tr",
+      "label": "Daniel",
+      "language": "tr",
+      "gender": "male",
+      "file": "supertonic/tr/M5-tr.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F1::uk",
+      "label": "Sarah",
+      "language": "uk",
+      "gender": "female",
+      "file": "supertonic/uk/F1-uk.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F2::uk",
+      "label": "Lily",
+      "language": "uk",
+      "gender": "female",
+      "file": "supertonic/uk/F2-uk.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F3::uk",
+      "label": "Jessica",
+      "language": "uk",
+      "gender": "female",
+      "file": "supertonic/uk/F3-uk.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F4::uk",
+      "label": "Olivia",
+      "language": "uk",
+      "gender": "female",
+      "file": "supertonic/uk/F4-uk.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "F5::uk",
+      "label": "Emily",
+      "language": "uk",
+      "gender": "female",
+      "file": "supertonic/uk/F5-uk.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M1::uk",
+      "label": "Alex",
+      "language": "uk",
+      "gender": "male",
+      "file": "supertonic/uk/M1-uk.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M2::uk",
+      "label": "James",
+      "language": "uk",
+      "gender": "male",
+      "file": "supertonic/uk/M2-uk.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M3::uk",
+      "label": "Robert",
+      "language": "uk",
+      "gender": "male",
+      "file": "supertonic/uk/M3-uk.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M4::uk",
+      "label": "Sam",
+      "language": "uk",
+      "gender": "male",
+      "file": "supertonic/uk/M4-uk.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "supertonic",
+      "voiceId": "M5::uk",
+      "label": "Daniel",
+      "language": "uk",
+      "gender": "male",
+      "file": "supertonic/uk/M5-uk.mp3",
+      "license": "OpenRAIL-M"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "ar_JO-kareem-low",
+      "label": "kareem · low · 60 MB",
+      "language": "ar-jo",
+      "gender": "male",
+      "file": "piper/ar-jo/ar_JO-kareem-low.mp3",
+      "license": "See URL"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "ar_JO-kareem-medium",
+      "label": "kareem · medium · 60 MB",
+      "language": "ar-jo",
+      "gender": "male",
+      "file": "piper/ar-jo/ar_JO-kareem-medium.mp3",
+      "license": "See URL"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "bg_BG-dimitar-medium",
+      "label": "dimitar · medium · 60 MB",
+      "language": "bg-bg",
+      "gender": "male",
+      "file": "piper/bg-bg/bg_BG-dimitar-medium.mp3",
+      "license": "CC0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "bn_BD-google-medium",
+      "label": "google · medium · 73 MB",
+      "language": "bn-bd",
+      "gender": "male",
+      "file": "piper/bn-bd/bn_BD-google-medium.mp3",
+      "license": "Attribution-ShareAlike 4.0 International"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "ca_ES-upc_ona-medium",
+      "label": "upc_ona · medium · 60 MB",
+      "language": "ca-es",
+      "file": "piper/ca-es/ca_ES-upc_ona-medium.mp3",
+      "license": "CC BY-SA 3.0 ES"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "ca_ES-upc_ona-x_low",
+      "label": "upc_ona · x_low · 20 MB",
+      "language": "ca-es",
+      "file": "piper/ca-es/ca_ES-upc_ona-x_low.mp3",
+      "license": "CC BY-SA 3.0 ES"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "ca_ES-upc_pau-x_low",
+      "label": "upc_pau · x_low · 27 MB",
+      "language": "ca-es",
+      "gender": "male",
+      "file": "piper/ca-es/ca_ES-upc_pau-x_low.mp3",
+      "license": "CC BY-SA 3.0 ES"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "cs_CZ-jirka-low",
+      "label": "jirka · low · 60 MB",
+      "language": "cs-cz",
+      "file": "piper/cs-cz/cs_CZ-jirka-low.mp3",
+      "license": "CC0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "cs_CZ-jirka-medium",
+      "label": "jirka · medium · 60 MB",
+      "language": "cs-cz",
+      "file": "piper/cs-cz/cs_CZ-jirka-medium.mp3",
+      "license": "CC0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "cs_CZ-kasandra-medium",
+      "label": "kasandra · medium · 61 MB",
+      "language": "cs-cz",
+      "gender": "female",
+      "file": "piper/cs-cz/cs_CZ-kasandra-medium.mp3",
+      "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "cy_GB-bu_tts-medium",
+      "label": "bu_tts · medium · 73 MB",
+      "language": "cy-gb",
+      "gender": "female",
+      "file": "piper/cy-gb/cy_GB-bu_tts-medium.mp3",
+      "license": "CC-BY"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "cy_GB-gwryw_gogleddol-medium",
+      "label": "gwryw_gogleddol · medium · 61 MB",
+      "language": "cy-gb",
+      "gender": "male",
+      "file": "piper/cy-gb/cy_GB-gwryw_gogleddol-medium.mp3",
+      "license": "See URL"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "da_DK-talesyntese-medium",
+      "label": "talesyntese · medium · 60 MB",
+      "language": "da-dk",
+      "gender": "male",
+      "file": "piper/da-dk/da_DK-talesyntese-medium.mp3",
+      "license": "CC0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "de_DE-eva_k-x_low",
+      "label": "eva_k · x_low · 20 MB",
+      "language": "de-de",
+      "file": "piper/de-de/de_DE-eva_k-x_low.mp3",
+      "license": "See URL"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "de_DE-karlsson-low",
+      "label": "karlsson · low · 60 MB",
+      "language": "de-de",
+      "gender": "male",
+      "file": "piper/de-de/de_DE-karlsson-low.mp3",
+      "license": "See URL"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "de_DE-kerstin-low",
+      "label": "kerstin · low · 60 MB",
+      "language": "de-de",
+      "file": "piper/de-de/de_DE-kerstin-low.mp3",
+      "license": "CC0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "de_DE-mls-medium",
+      "label": "mls · medium · 73 MB",
+      "language": "de-de",
+      "file": "piper/de-de/de_DE-mls-medium.mp3",
+      "license": "CC-BY 4.0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "de_DE-pavoque-low",
+      "label": "pavoque · low · 60 MB",
+      "language": "de-de",
+      "gender": "female",
+      "file": "piper/de-de/de_DE-pavoque-low.mp3",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "de_DE-ramona-low",
+      "label": "ramona · low · 60 MB",
+      "language": "de-de",
+      "gender": "female",
+      "file": "piper/de-de/de_DE-ramona-low.mp3",
+      "license": "See URL"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "de_DE-thorsten_emotional-medium",
+      "label": "thorsten_emotional · medium · 73 MB",
+      "language": "de-de",
+      "gender": "male",
+      "file": "piper/de-de/de_DE-thorsten_emotional-medium.mp3",
+      "license": "CC0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "de_DE-thorsten-high",
+      "label": "thorsten · high · 109 MB",
+      "language": "de-de",
+      "gender": "male",
+      "file": "piper/de-de/de_DE-thorsten-high.mp3",
+      "license": "CC0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "de_DE-thorsten-low",
+      "label": "thorsten · low · 60 MB",
+      "language": "de-de",
+      "gender": "male",
+      "file": "piper/de-de/de_DE-thorsten-low.mp3",
+      "license": "CC0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "de_DE-thorsten-medium",
+      "label": "thorsten · medium · 60 MB",
+      "language": "de-de",
+      "gender": "male",
+      "file": "piper/de-de/de_DE-thorsten-medium.mp3",
+      "license": "CC0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "el_GR-joy-medium",
+      "label": "joy · medium · 61 MB",
+      "language": "el-gr",
+      "file": "piper/el-gr/el_GR-joy-medium.mp3",
+      "license": "CC BY-NC 4.0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "el_GR-rapunzelina-low",
+      "label": "rapunzelina · low · 60 MB",
+      "language": "el-gr",
+      "gender": "female",
+      "file": "piper/el-gr/el_GR-rapunzelina-low.mp3",
+      "license": "CC0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "el_GR-rapunzelina-medium",
+      "label": "rapunzelina · medium · 60 MB",
+      "language": "el-gr",
+      "gender": "female",
+      "file": "piper/el-gr/el_GR-rapunzelina-medium.mp3",
+      "license": "CC0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "en_GB-alan-low",
+      "label": "alan · low · 60 MB",
+      "language": "en-gb",
+      "gender": "male",
+      "file": "piper/en-gb/en_GB-alan-low.mp3",
+      "license": "See URL"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "en_GB-alan-medium",
+      "label": "alan · medium · 60 MB",
+      "language": "en-gb",
+      "gender": "male",
+      "file": "piper/en-gb/en_GB-alan-medium.mp3",
+      "license": "See URL"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "en_GB-alba-medium",
+      "label": "alba · medium · 60 MB",
+      "language": "en-gb",
+      "gender": "female",
+      "file": "piper/en-gb/en_GB-alba-medium.mp3",
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "en_GB-aru-medium",
+      "label": "aru · medium · 73 MB",
+      "language": "en-gb",
+      "gender": "female",
+      "file": "piper/en-gb/en_GB-aru-medium.mp3",
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "en_GB-cori-high",
+      "label": "cori · high · 109 MB",
+      "language": "en-gb",
+      "gender": "female",
+      "file": "piper/en-gb/en_GB-cori-high.mp3",
+      "license": "public domain"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "en_GB-cori-medium",
+      "label": "cori · medium · 61 MB",
+      "language": "en-gb",
+      "gender": "female",
+      "file": "piper/en-gb/en_GB-cori-medium.mp3",
+      "license": "public domain"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "en_GB-jenny_dioco-medium",
+      "label": "jenny_dioco · medium · 60 MB",
+      "language": "en-gb",
+      "file": "piper/en-gb/en_GB-jenny_dioco-medium.mp3",
+      "license": "See URL"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "en_GB-northern_english_male-medium",
+      "label": "northern_english_male · medium · 60 MB",
+      "language": "en-gb",
+      "gender": "male",
+      "file": "piper/en-gb/en_GB-northern_english_male-medium.mp3",
+      "license": "CC-BY-SA 4.0 International"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "en_GB-semaine-medium",
+      "label": "semaine · medium · 73 MB",
+      "language": "en-gb",
+      "gender": "female",
+      "file": "piper/en-gb/en_GB-semaine-medium.mp3",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "en_GB-southern_english_female-low",
+      "label": "southern_english_female · low · 60 MB",
+      "language": "en-gb",
+      "file": "piper/en-gb/en_GB-southern_english_female-low.mp3",
+      "license": "CC-BY-SA 4.0 International"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "en_GB-vctk-medium",
+      "label": "vctk · medium · 73 MB",
+      "language": "en-gb",
+      "file": "piper/en-gb/en_GB-vctk-medium.mp3",
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "en_US-amy-low",
+      "label": "amy · low · 60 MB",
+      "language": "en-us",
+      "gender": "female",
+      "file": "piper/en-us/en_US-amy-low.mp3",
+      "license": "See URL"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "en_US-amy-medium",
+      "label": "amy · medium · 60 MB",
+      "language": "en-us",
+      "gender": "female",
+      "file": "piper/en-us/en_US-amy-medium.mp3",
+      "license": "See URL"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "en_US-arctic-medium",
+      "label": "arctic · medium · 73 MB",
+      "language": "en-us",
+      "gender": "male",
+      "file": "piper/en-us/en_US-arctic-medium.mp3",
+      "license": "See LICENSE file"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "en_US-bryce-medium",
+      "label": "bryce · medium · 61 MB",
+      "language": "en-us",
+      "gender": "male",
+      "file": "piper/en-us/en_US-bryce-medium.mp3",
+      "license": "public domain"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "en_US-danny-low",
+      "label": "danny · low · 60 MB",
+      "language": "en-us",
+      "gender": "male",
+      "file": "piper/en-us/en_US-danny-low.mp3",
+      "license": "See URL"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "en_US-hfc_female-medium",
+      "label": "hfc_female · medium · 60 MB",
+      "language": "en-us",
+      "gender": "female",
+      "file": "piper/en-us/en_US-hfc_female-medium.mp3",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "en_US-hfc_male-medium",
+      "label": "hfc_male · medium · 60 MB",
+      "language": "en-us",
+      "gender": "male",
+      "file": "piper/en-us/en_US-hfc_male-medium.mp3",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "en_US-joe-medium",
+      "label": "joe · medium · 60 MB",
+      "language": "en-us",
+      "gender": "male",
+      "file": "piper/en-us/en_US-joe-medium.mp3",
+      "license": "CC0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "en_US-john-medium",
+      "label": "john · medium · 61 MB",
+      "language": "en-us",
+      "gender": "male",
+      "file": "piper/en-us/en_US-john-medium.mp3",
+      "license": "public domain"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "en_US-kathleen-low",
+      "label": "kathleen · low · 60 MB",
+      "language": "en-us",
+      "file": "piper/en-us/en_US-kathleen-low.mp3",
+      "license": "CC0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "en_US-kristin-medium",
+      "label": "kristin · medium · 61 MB",
+      "language": "en-us",
+      "file": "piper/en-us/en_US-kristin-medium.mp3",
+      "license": "public domain"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "en_US-kusal-medium",
+      "label": "kusal · medium · 60 MB",
+      "language": "en-us",
+      "gender": "male",
+      "file": "piper/en-us/en_US-kusal-medium.mp3",
+      "license": "See URL"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "en_US-l2arctic-medium",
+      "label": "l2arctic · medium · 73 MB",
+      "language": "en-us",
+      "gender": "male",
+      "file": "piper/en-us/en_US-l2arctic-medium.mp3",
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "en_US-lessac-high",
+      "label": "lessac · high · 109 MB",
+      "language": "en-us",
+      "gender": "female",
+      "file": "piper/en-us/en_US-lessac-high.mp3",
+      "license": "https://www.cstr.ed.ac.uk/projects/blizzard/2013/lessac_blizzard2013/license.html"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "en_US-lessac-low",
+      "label": "lessac · low · 60 MB",
+      "language": "en-us",
+      "gender": "female",
+      "file": "piper/en-us/en_US-lessac-low.mp3",
+      "license": "https://www.cstr.ed.ac.uk/projects/blizzard/2013/lessac_blizzard2013/license.html"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "en_US-lessac-medium",
+      "label": "lessac · medium · 60 MB",
+      "language": "en-us",
+      "gender": "female",
+      "file": "piper/en-us/en_US-lessac-medium.mp3",
+      "license": "https://www.cstr.ed.ac.uk/projects/blizzard/2013/lessac_blizzard2013/license.html"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "en_US-libritts_r-medium",
+      "label": "libritts_r · medium · 75 MB",
+      "language": "en-us",
+      "gender": "female",
+      "file": "piper/en-us/en_US-libritts_r-medium.mp3",
+      "license": "CC BY 4.0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "en_US-libritts-high",
+      "label": "libritts · high · 130 MB",
+      "language": "en-us",
+      "gender": "female",
+      "file": "piper/en-us/en_US-libritts-high.mp3",
+      "license": "CC BY 4.0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "en_US-ljspeech-high",
+      "label": "ljspeech · high · 109 MB",
+      "language": "en-us",
+      "gender": "female",
+      "file": "piper/en-us/en_US-ljspeech-high.mp3",
+      "license": "public domain"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "en_US-ljspeech-medium",
+      "label": "ljspeech · medium · 61 MB",
+      "language": "en-us",
+      "gender": "female",
+      "file": "piper/en-us/en_US-ljspeech-medium.mp3",
+      "license": "public domain"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "en_US-mike-medium",
+      "label": "mike · medium · 60 MB",
+      "language": "en-us",
+      "gender": "male",
+      "file": "piper/en-us/en_US-mike-medium.mp3",
+      "license": "CC0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "en_US-norman-medium",
+      "label": "norman · medium · 61 MB",
+      "language": "en-us",
+      "gender": "male",
+      "file": "piper/en-us/en_US-norman-medium.mp3",
+      "license": "public domain"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "en_US-reza_ibrahim-medium",
+      "label": "reza_ibrahim · medium · 61 MB",
+      "language": "en-us",
+      "gender": "male",
+      "file": "piper/en-us/en_US-reza_ibrahim-medium.mp3",
+      "license": "CC0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "en_US-ryan-high",
+      "label": "ryan · high · 115 MB",
+      "language": "en-us",
+      "gender": "male",
+      "file": "piper/en-us/en_US-ryan-high.mp3",
+      "license": "CC BY-NC-SA 4.0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "en_US-ryan-low",
+      "label": "ryan · low · 60 MB",
+      "language": "en-us",
+      "gender": "male",
+      "file": "piper/en-us/en_US-ryan-low.mp3",
+      "license": "CC BY-NC-SA 4.0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "en_US-ryan-medium",
+      "label": "ryan · medium · 60 MB",
+      "language": "en-us",
+      "gender": "male",
+      "file": "piper/en-us/en_US-ryan-medium.mp3",
+      "license": "CC BY-NC-SA 4.0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "en_US-sam-medium",
+      "label": "sam · medium · 60 MB",
+      "language": "en-us",
+      "file": "piper/en-us/en_US-sam-medium.mp3",
+      "license": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "es_AR-daniela-high",
+      "label": "daniela · high · 109 MB",
+      "language": "es-ar",
+      "file": "piper/es-ar/es_AR-daniela-high.mp3",
+      "license": "Attribution-ShareAlike 4.0 International"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "es_ES-carlfm-x_low",
+      "label": "carlfm · x_low · 27 MB",
+      "language": "es-es",
+      "gender": "male",
+      "file": "piper/es-es/es_ES-carlfm-x_low.mp3",
+      "license": "Public domain"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "es_ES-davefx-medium",
+      "label": "davefx · medium · 60 MB",
+      "language": "es-es",
+      "gender": "male",
+      "file": "piper/es-es/es_ES-davefx-medium.mp3",
+      "license": "CC0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "es_ES-mls_10246-low",
+      "label": "mls_10246 · low · 60 MB",
+      "language": "es-es",
+      "gender": "female",
+      "file": "piper/es-es/es_ES-mls_10246-low.mp3",
+      "license": "CC BY 4.0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "es_ES-mls_9972-low",
+      "label": "mls_9972 · low · 60 MB",
+      "language": "es-es",
+      "gender": "female",
+      "file": "piper/es-es/es_ES-mls_9972-low.mp3",
+      "license": "CC BY 4.0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "es_ES-sharvard-medium",
+      "label": "sharvard · medium · 73 MB",
+      "language": "es-es",
+      "gender": "male",
+      "file": "piper/es-es/es_ES-sharvard-medium.mp3",
+      "license": "http://creativecommons.org/licenses/by/3.0/"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "es_MX-ald-medium",
+      "label": "ald · medium · 60 MB",
+      "language": "es-mx",
+      "file": "piper/es-mx/es_MX-ald-medium.mp3",
+      "license": "http://unlicense.org"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "es_MX-ald-x_low",
+      "label": "ald · x_low · 20 MB",
+      "language": "es-mx",
+      "file": "piper/es-mx/es_MX-ald-x_low.mp3"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "es_MX-claude-high",
+      "label": "claude · high · 60 MB",
+      "language": "es-mx",
+      "file": "piper/es-mx/es_MX-claude-high.mp3",
+      "license": "apache-2.0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "eu_ES-antton-medium",
+      "label": "antton · medium · 61 MB",
+      "language": "eu-es",
+      "gender": "male",
+      "file": "piper/eu-es/eu_ES-antton-medium.mp3",
+      "license": "Creative Commons Attribution 4.0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "eu_ES-maider-medium",
+      "label": "maider · medium · 61 MB",
+      "language": "eu-es",
+      "gender": "female",
+      "file": "piper/eu-es/eu_ES-maider-medium.mp3",
+      "license": "Creative Commons Attribution 4.0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "fa_IR-amir-medium",
+      "label": "amir · medium · 61 MB",
+      "language": "fa-ir",
+      "file": "piper/fa-ir/fa_IR-amir-medium.mp3",
+      "license": "CC0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "fa_IR-ganji_adabi-medium",
+      "label": "ganji_adabi · medium · 61 MB",
+      "language": "fa-ir",
+      "gender": "male",
+      "file": "piper/fa-ir/fa_IR-ganji_adabi-medium.mp3",
+      "license": "CC0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "fa_IR-ganji-medium",
+      "label": "ganji · medium · 61 MB",
+      "language": "fa-ir",
+      "gender": "male",
+      "file": "piper/fa-ir/fa_IR-ganji-medium.mp3",
+      "license": "CC0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "fa_IR-gyro-medium",
+      "label": "gyro · medium · 60 MB",
+      "language": "fa-ir",
+      "gender": "male",
+      "file": "piper/fa-ir/fa_IR-gyro-medium.mp3",
+      "license": "See URL"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "fa_IR-reza_ibrahim-medium",
+      "label": "reza_ibrahim · medium · 61 MB",
+      "language": "fa-ir",
+      "gender": "male",
+      "file": "piper/fa-ir/fa_IR-reza_ibrahim-medium.mp3",
+      "license": "CC0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "fi_FI-harri-low",
+      "label": "harri · low · 67 MB",
+      "language": "fi-fi",
+      "gender": "male",
+      "file": "piper/fi-fi/fi_FI-harri-low.mp3",
+      "license": "CC0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "fi_FI-harri-medium",
+      "label": "harri · medium · 60 MB",
+      "language": "fi-fi",
+      "gender": "male",
+      "file": "piper/fi-fi/fi_FI-harri-medium.mp3",
+      "license": "CC0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "fr_FR-gilles-low",
+      "label": "gilles · low · 60 MB",
+      "language": "fr-fr",
+      "gender": "male",
+      "file": "piper/fr-fr/fr_FR-gilles-low.mp3",
+      "license": "CC0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "fr_FR-mls_1840-low",
+      "label": "mls_1840 · low · 60 MB",
+      "language": "fr-fr",
+      "gender": "male",
+      "file": "piper/fr-fr/fr_FR-mls_1840-low.mp3",
+      "license": "CC BY 4.0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "fr_FR-mls-medium",
+      "label": "mls · medium · 73 MB",
+      "language": "fr-fr",
+      "gender": "male",
+      "file": "piper/fr-fr/fr_FR-mls-medium.mp3",
+      "license": "CC-BY 4.0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "fr_FR-siwis-low",
+      "label": "siwis · low · 27 MB",
+      "language": "fr-fr",
+      "gender": "female",
+      "file": "piper/fr-fr/fr_FR-siwis-low.mp3",
+      "license": "CC-BY 4.0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "fr_FR-siwis-medium",
+      "label": "siwis · medium · 60 MB",
+      "language": "fr-fr",
+      "gender": "female",
+      "file": "piper/fr-fr/fr_FR-siwis-medium.mp3",
+      "license": "CC-BY 4.0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "fr_FR-tom-medium",
+      "label": "tom · medium · 61 MB",
+      "language": "fr-fr",
+      "gender": "male",
+      "file": "piper/fr-fr/fr_FR-tom-medium.mp3",
+      "license": "AGPLv3"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "fr_FR-upmc-medium",
+      "label": "upmc · medium · 73 MB",
+      "language": "fr-fr",
+      "gender": "female",
+      "file": "piper/fr-fr/fr_FR-upmc-medium.mp3",
+      "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "he_IL-saspeech-medium",
+      "label": "saspeech · medium · 60 MB",
+      "language": "he-il",
+      "file": "piper/he-il/he_IL-saspeech-medium.mp3",
+      "license": "See dataset URL"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "hi_IN-pratham-medium",
+      "label": "pratham · medium · 61 MB",
+      "language": "hi-in",
+      "gender": "male",
+      "file": "piper/hi-in/hi_IN-pratham-medium.mp3",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "hi_IN-priyamvada-medium",
+      "label": "priyamvada · medium · 61 MB",
+      "language": "hi-in",
+      "gender": "female",
+      "file": "piper/hi-in/hi_IN-priyamvada-medium.mp3",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "hi_IN-rohan-medium",
+      "label": "rohan · medium · 60 MB",
+      "language": "hi-in",
+      "file": "piper/hi-in/hi_IN-rohan-medium.mp3",
+      "license": "https://www.iitm.ac.in/donlab/indictts/downloads/license.pdf"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "hu_HU-anna-medium",
+      "label": "anna · medium · 60 MB",
+      "language": "hu-hu",
+      "file": "piper/hu-hu/hu_HU-anna-medium.mp3",
+      "license": "CC0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "hu_HU-berta-medium",
+      "label": "berta · medium · 60 MB",
+      "language": "hu-hu",
+      "file": "piper/hu-hu/hu_HU-berta-medium.mp3",
+      "license": "CC0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "hu_HU-imre-medium",
+      "label": "imre · medium · 60 MB",
+      "language": "hu-hu",
+      "gender": "male",
+      "file": "piper/hu-hu/hu_HU-imre-medium.mp3",
+      "license": "CC0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "hy_AM-gor-medium",
+      "label": "gor · medium · 61 MB",
+      "language": "hy-am",
+      "gender": "male",
+      "file": "piper/hy-am/hy_AM-gor-medium.mp3",
+      "license": "GPL 2.0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "id_ID-news_tts-medium",
+      "label": "news_tts · medium · 60 MB",
+      "language": "id-id",
+      "gender": "female",
+      "file": "piper/id-id/id_ID-news_tts-medium.mp3",
+      "license": "See URL"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "is_IS-bui-medium",
+      "label": "bui · medium · 73 MB",
+      "language": "is-is",
+      "gender": "male",
+      "file": "piper/is-is/is_IS-bui-medium.mp3",
+      "license": "See URL"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "is_IS-salka-medium",
+      "label": "salka · medium · 73 MB",
+      "language": "is-is",
+      "gender": "female",
+      "file": "piper/is-is/is_IS-salka-medium.mp3",
+      "license": "See URL"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "is_IS-steinn-medium",
+      "label": "steinn · medium · 73 MB",
+      "language": "is-is",
+      "gender": "male",
+      "file": "piper/is-is/is_IS-steinn-medium.mp3",
+      "license": "See URL"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "is_IS-ugla-medium",
+      "label": "ugla · medium · 73 MB",
+      "language": "is-is",
+      "gender": "female",
+      "file": "piper/is-is/is_IS-ugla-medium.mp3",
+      "license": "See URL"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "it_IT-paola-medium",
+      "label": "paola · medium · 61 MB",
+      "language": "it-it",
+      "gender": "female",
+      "file": "piper/it-it/it_IT-paola-medium.mp3",
+      "license": "See URL"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "it_IT-riccardo-x_low",
+      "label": "riccardo · x_low · 27 MB",
+      "language": "it-it",
+      "file": "piper/it-it/it_IT-riccardo-x_low.mp3",
+      "license": "See URL"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "it_IT-serena-high",
+      "label": "serena · high · 109 MB",
+      "language": "it-it",
+      "gender": "female",
+      "file": "piper/it-it/it_IT-serena-high.mp3",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "it_IT-serena-medium",
+      "label": "serena · medium · 61 MB",
+      "language": "it-it",
+      "gender": "female",
+      "file": "piper/it-it/it_IT-serena-medium.mp3",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "ja_JA-hi_fi_captain-medium",
+      "label": "hi_fi_captain · medium · 73 MB",
+      "language": "ja-ja",
+      "gender": "female",
+      "file": "piper/ja-ja/ja_JA-hi_fi_captain-medium.mp3",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "ka_GE-natia-medium",
+      "label": "natia · medium · 60 MB",
+      "language": "ka-ge",
+      "gender": "female",
+      "file": "piper/ka-ge/ka_GE-natia-medium.mp3",
+      "license": "See LICENSE file"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "kk_KZ-iseke-x_low",
+      "label": "iseke · x_low · 27 MB",
+      "language": "kk-kz",
+      "gender": "male",
+      "file": "piper/kk-kz/kk_KZ-iseke-x_low.mp3",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "kk_KZ-issai-high",
+      "label": "issai · high · 122 MB",
+      "language": "kk-kz",
+      "file": "piper/kk-kz/kk_KZ-issai-high.mp3",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "kk_KZ-raya-x_low",
+      "label": "raya · x_low · 27 MB",
+      "language": "kk-kz",
+      "gender": "female",
+      "file": "piper/kk-kz/kk_KZ-raya-x_low.mp3",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "ko_KR-kss-medium",
+      "label": "kss · medium · 60 MB",
+      "language": "ko-kr",
+      "gender": "female",
+      "file": "piper/ko-kr/ko_KR-kss-medium.mp3",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "ku_TR-berfin_renas-medium",
+      "label": "berfin_renas · medium · 73 MB",
+      "language": "ku-tr",
+      "gender": "female",
+      "file": "piper/ku-tr/ku_TR-berfin_renas-medium.mp3",
+      "license": "cc-by-nc-4.0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "lb_LU-marylux-medium",
+      "label": "marylux · medium · 60 MB",
+      "language": "lb-lu",
+      "gender": "female",
+      "file": "piper/lb-lu/lb_LU-marylux-medium.mp3",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "lv_LV-aivars-medium",
+      "label": "aivars · medium · 61 MB",
+      "language": "lv-lv",
+      "gender": "male",
+      "file": "piper/lv-lv/lv_LV-aivars-medium.mp3",
+      "license": "CC0 1.0 Universal"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "ml_IN-arjun-medium",
+      "label": "arjun · medium · 60 MB",
+      "language": "ml-in",
+      "gender": "male",
+      "file": "piper/ml-in/ml_IN-arjun-medium.mp3",
+      "license": "See URL"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "ml_IN-meera-medium",
+      "label": "meera · medium · 60 MB",
+      "language": "ml-in",
+      "gender": "female",
+      "file": "piper/ml-in/ml_IN-meera-medium.mp3",
+      "license": "See URL"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "mr_IN-google-medium",
+      "label": "google · medium · 73 MB",
+      "language": "mr-in",
+      "gender": "female",
+      "file": "piper/mr-in/mr_IN-google-medium.mp3",
+      "license": "Attribution-ShareAlike 4.0 International"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "ne_NP-chitwan-medium",
+      "label": "chitwan · medium · 60 MB",
+      "language": "ne-np",
+      "file": "piper/ne-np/ne_NP-chitwan-medium.mp3",
+      "license": "CC0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "ne_NP-google-medium",
+      "label": "google · medium · 73 MB",
+      "language": "ne-np",
+      "gender": "female",
+      "file": "piper/ne-np/ne_NP-google-medium.mp3",
+      "license": "CC-BY-SA-4.0 International"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "ne_NP-google-x_low",
+      "label": "google · x_low · 26 MB",
+      "language": "ne-np",
+      "gender": "female",
+      "file": "piper/ne-np/ne_NP-google-x_low.mp3",
+      "license": "CC-BY-SA-4.0 International"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "nl_BE-nathalie-medium",
+      "label": "nathalie · medium · 60 MB",
+      "language": "nl-be",
+      "file": "piper/nl-be/nl_BE-nathalie-medium.mp3",
+      "license": "CC0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "nl_BE-nathalie-x_low",
+      "label": "nathalie · x_low · 20 MB",
+      "language": "nl-be",
+      "file": "piper/nl-be/nl_BE-nathalie-x_low.mp3",
+      "license": "CC0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "nl_BE-rdh-medium",
+      "label": "rdh · medium · 60 MB",
+      "language": "nl-be",
+      "gender": "male",
+      "file": "piper/nl-be/nl_BE-rdh-medium.mp3",
+      "license": "CC0 1.0 Universal"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "nl_BE-rdh-x_low",
+      "label": "rdh · x_low · 20 MB",
+      "language": "nl-be",
+      "gender": "male",
+      "file": "piper/nl-be/nl_BE-rdh-x_low.mp3",
+      "license": "CC0 1.0 Universal"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "nl_NL-alex-medium",
+      "label": "alex · medium · 61 MB",
+      "language": "nl-nl",
+      "gender": "male",
+      "file": "piper/nl-nl/nl_NL-alex-medium.mp3",
+      "license": "CC0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "nl_NL-mls_5809-low",
+      "label": "mls_5809 · low · 60 MB",
+      "language": "nl-nl",
+      "gender": "female",
+      "file": "piper/nl-nl/nl_NL-mls_5809-low.mp3",
+      "license": "CC BY 4.0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "nl_NL-mls_7432-low",
+      "label": "mls_7432 · low · 60 MB",
+      "language": "nl-nl",
+      "gender": "female",
+      "file": "piper/nl-nl/nl_NL-mls_7432-low.mp3",
+      "license": "CC BY 4.0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "nl_NL-mls-medium",
+      "label": "mls · medium · 73 MB",
+      "language": "nl-nl",
+      "gender": "male",
+      "file": "piper/nl-nl/nl_NL-mls-medium.mp3",
+      "license": "CC-BY 4.0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "nl_NL-pim-medium",
+      "label": "pim · medium · 61 MB",
+      "language": "nl-nl",
+      "gender": "male",
+      "file": "piper/nl-nl/nl_NL-pim-medium.mp3",
+      "license": "CC0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "nl_NL-ronnie-medium",
+      "label": "ronnie · medium · 60 MB",
+      "language": "nl-nl",
+      "gender": "male",
+      "file": "piper/nl-nl/nl_NL-ronnie-medium.mp3",
+      "license": "CC0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "no_NO-nvcc-medium",
+      "label": "nvcc · medium · 73 MB",
+      "language": "no-no",
+      "gender": "female",
+      "file": "piper/no-no/no_NO-nvcc-medium.mp3",
+      "license": "CC0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "no_NO-talesyntese-medium",
+      "label": "talesyntese · medium · 60 MB",
+      "language": "no-no",
+      "gender": "male",
+      "file": "piper/no-no/no_NO-talesyntese-medium.mp3",
+      "license": "CC0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "pl_PL-bass-high",
+      "label": "bass · high · 109 MB",
+      "language": "pl-pl",
+      "gender": "male",
+      "file": "piper/pl-pl/pl_PL-bass-high.mp3"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "pl_PL-darkman-medium",
+      "label": "darkman · medium · 60 MB",
+      "language": "pl-pl",
+      "gender": "male",
+      "file": "piper/pl-pl/pl_PL-darkman-medium.mp3",
+      "license": "CC0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "pl_PL-gosia-medium",
+      "label": "gosia · medium · 60 MB",
+      "language": "pl-pl",
+      "gender": "female",
+      "file": "piper/pl-pl/pl_PL-gosia-medium.mp3",
+      "license": "CC0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "pl_PL-mc_speech-medium",
+      "label": "mc_speech · medium · 60 MB",
+      "language": "pl-pl",
+      "gender": "male",
+      "file": "piper/pl-pl/pl_PL-mc_speech-medium.mp3",
+      "license": "CC0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "pl_PL-mls_6892-low",
+      "label": "mls_6892 · low · 60 MB",
+      "language": "pl-pl",
+      "gender": "male",
+      "file": "piper/pl-pl/pl_PL-mls_6892-low.mp3",
+      "license": "CC BY 4.0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "pt_BR-cadu-medium",
+      "label": "cadu · medium · 60 MB",
+      "language": "pt-br",
+      "gender": "male",
+      "file": "piper/pt-br/pt_BR-cadu-medium.mp3",
+      "license": "CC0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "pt_BR-edresson-low",
+      "label": "edresson · low · 60 MB",
+      "language": "pt-br",
+      "file": "piper/pt-br/pt_BR-edresson-low.mp3",
+      "license": "CC BY 4.0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "pt_BR-faber-medium",
+      "label": "faber · medium · 60 MB",
+      "language": "pt-br",
+      "file": "piper/pt-br/pt_BR-faber-medium.mp3",
+      "license": "CC0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "pt_BR-jeff-medium",
+      "label": "jeff · medium · 60 MB",
+      "language": "pt-br",
+      "file": "piper/pt-br/pt_BR-jeff-medium.mp3",
+      "license": "CC0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "pt_PT-tugão-medium",
+      "label": "tugão · medium · 60 MB",
+      "language": "pt-pt",
+      "file": "piper/pt-pt/pt_PT-tug-o-medium.mp3",
+      "license": "CC0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "ro_RO-mihai-medium",
+      "label": "mihai · medium · 60 MB",
+      "language": "ro-ro",
+      "gender": "male",
+      "file": "piper/ro-ro/ro_RO-mihai-medium.mp3",
+      "license": "CC0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "ru_RU-denis-medium",
+      "label": "denis · medium · 60 MB",
+      "language": "ru-ru",
+      "file": "piper/ru-ru/ru_RU-denis-medium.mp3",
+      "license": "CC0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "ru_RU-dmitri-medium",
+      "label": "dmitri · medium · 60 MB",
+      "language": "ru-ru",
+      "gender": "female",
+      "file": "piper/ru-ru/ru_RU-dmitri-medium.mp3",
+      "license": "CC0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "ru_RU-irina-medium",
+      "label": "irina · medium · 60 MB",
+      "language": "ru-ru",
+      "file": "piper/ru-ru/ru_RU-irina-medium.mp3",
+      "license": "Unknown"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "ru_RU-ruslan-medium",
+      "label": "ruslan · medium · 60 MB",
+      "language": "ru-ru",
+      "gender": "male",
+      "file": "piper/ru-ru/ru_RU-ruslan-medium.mp3",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "sk_SK-lili-medium",
+      "label": "lili · medium · 60 MB",
+      "language": "sk-sk",
+      "gender": "female",
+      "file": "piper/sk-sk/sk_SK-lili-medium.mp3",
+      "license": "CC0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "sl_SI-artur-medium",
+      "label": "artur · medium · 60 MB",
+      "language": "sl-si",
+      "gender": "male",
+      "file": "piper/sl-si/sl_SI-artur-medium.mp3",
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "sq_AL-edon-medium",
+      "label": "edon · medium · 61 MB",
+      "language": "sq-al",
+      "gender": "male",
+      "file": "piper/sq-al/sq_AL-edon-medium.mp3",
+      "license": "CC0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "sr_RS-serbski_institut-medium",
+      "label": "serbski_institut · medium · 73 MB",
+      "language": "sr-rs",
+      "gender": "male",
+      "file": "piper/sr-rs/sr_RS-serbski_institut-medium.mp3",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "sv_SE-alma-medium",
+      "label": "alma · medium · 60 MB",
+      "language": "sv-se",
+      "file": "piper/sv-se/sv_SE-alma-medium.mp3"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "sv_SE-lisa-medium",
+      "label": "lisa · medium · 61 MB",
+      "language": "sv-se",
+      "file": "piper/sv-se/sv_SE-lisa-medium.mp3"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "sv_SE-nst-medium",
+      "label": "nst · medium · 60 MB",
+      "language": "sv-se",
+      "gender": "male",
+      "file": "piper/sv-se/sv_SE-nst-medium.mp3",
+      "license": "CC0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "sw_CD-lanfrica-medium",
+      "label": "lanfrica · medium · 60 MB",
+      "language": "sw-cd",
+      "gender": "male",
+      "file": "piper/sw-cd/sw_CD-lanfrica-medium.mp3",
+      "license": "See URL"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "te_IN-maya-medium",
+      "label": "maya · medium · 60 MB",
+      "language": "te-in",
+      "gender": "female",
+      "file": "piper/te-in/te_IN-maya-medium.mp3",
+      "license": "www.iitm.ac.in/donlab/indictts/downloads/license.pdf"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "te_IN-padmavathi-medium",
+      "label": "padmavathi · medium · 61 MB",
+      "language": "te-in",
+      "gender": "female",
+      "file": "piper/te-in/te_IN-padmavathi-medium.mp3",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "te_IN-venkatesh-medium",
+      "label": "venkatesh · medium · 61 MB",
+      "language": "te-in",
+      "gender": "male",
+      "file": "piper/te-in/te_IN-venkatesh-medium.mp3",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "tr_TR-dfki-medium",
+      "label": "dfki · medium · 60 MB",
+      "language": "tr-tr",
+      "gender": "male",
+      "file": "piper/tr-tr/tr_TR-dfki-medium.mp3",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "uk_UA-lada-x_low",
+      "label": "lada · x_low · 20 MB",
+      "language": "uk-ua",
+      "gender": "female",
+      "file": "piper/uk-ua/uk_UA-lada-x_low.mp3",
+      "license": "Apache 2.0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "uk_UA-mykyta-high",
+      "label": "mykyta · high · 109 MB",
+      "language": "uk-ua",
+      "gender": "male",
+      "file": "piper/uk-ua/uk_UA-mykyta-high.mp3",
+      "license": "Apache 2.0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "uk_UA-oleksa-high",
+      "label": "oleksa · high · 109 MB",
+      "language": "uk-ua",
+      "gender": "male",
+      "file": "piper/uk-ua/uk_UA-oleksa-high.mp3",
+      "license": "Apache 2.0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "uk_UA-tetiana-high",
+      "label": "tetiana · high · 109 MB",
+      "language": "uk-ua",
+      "gender": "female",
+      "file": "piper/uk-ua/uk_UA-tetiana-high.mp3",
+      "license": "Apache 2.0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "ur_PK-aegis_female-medium",
+      "label": "aegis_female · medium · 61 MB",
+      "language": "ur-pk",
+      "gender": "female",
+      "file": "piper/ur-pk/ur_PK-aegis_female-medium.mp3",
+      "license": "mit"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "ur_PK-fasih-medium",
+      "label": "fasih · medium · 61 MB",
+      "language": "ur-pk",
+      "gender": "male",
+      "file": "piper/ur-pk/ur_PK-fasih-medium.mp3",
+      "license": "mit"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "vi_VN-25hours_single-low",
+      "label": "25hours_single · low · 60 MB",
+      "language": "vi-vn",
+      "gender": "female",
+      "file": "piper/vi-vn/vi_VN-25hours_single-low.mp3",
+      "license": "Unknown"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "vi_VN-vais1000-medium",
+      "label": "vais1000 · medium · 60 MB",
+      "language": "vi-vn",
+      "gender": "female",
+      "file": "piper/vi-vn/vi_VN-vais1000-medium.mp3",
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "vi_VN-vivos-x_low",
+      "label": "vivos · x_low · 27 MB",
+      "language": "vi-vn",
+      "gender": "female",
+      "file": "piper/vi-vn/vi_VN-vivos-x_low.mp3",
+      "license": "CC BY-NC-SA 4.0"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "zh_CN-huayan-medium",
+      "label": "huayan · medium · 60 MB",
+      "language": "zh-cn",
+      "file": "piper/zh-cn/zh_CN-huayan-medium.mp3",
+      "license": "Unknown"
+    },
+    {
+      "engine": "piper",
+      "voiceId": "zh_CN-huayan-x_low",
+      "label": "huayan · x_low · 20 MB",
+      "language": "zh-cn",
+      "gender": "female",
+      "file": "piper/zh-cn/zh_CN-huayan-x_low.mp3",
+      "license": "Unknown"
+    }
+  ]
+}
