@@ -3219,6 +3219,7 @@
       "label": "upc_ona · medium · 60 MB",
       "language": "ca-es",
       "file": "piper/ca-es/ca_ES-upc_ona-medium.mp3",
+      "gender": "female",
       "license": "CC BY-SA 3.0 ES"
     },
     {
@@ -3227,6 +3228,7 @@
       "label": "upc_ona · x_low · 20 MB",
       "language": "ca-es",
       "file": "piper/ca-es/ca_ES-upc_ona-x_low.mp3",
+      "gender": "female",
       "license": "CC BY-SA 3.0 ES"
     },
     {
@@ -3244,6 +3246,7 @@
       "label": "jirka · low · 60 MB",
       "language": "cs-cz",
       "file": "piper/cs-cz/cs_CZ-jirka-low.mp3",
+      "gender": "male",
       "license": "CC0"
     },
     {
@@ -3252,6 +3255,7 @@
       "label": "jirka · medium · 60 MB",
       "language": "cs-cz",
       "file": "piper/cs-cz/cs_CZ-jirka-medium.mp3",
+      "gender": "male",
       "license": "CC0"
     },
     {
@@ -3296,6 +3300,7 @@
       "label": "eva_k · x_low · 20 MB",
       "language": "de-de",
       "file": "piper/de-de/de_DE-eva_k-x_low.mp3",
+      "gender": "female",
       "license": "See URL"
     },
     {
@@ -3313,6 +3318,7 @@
       "label": "kerstin · low · 60 MB",
       "language": "de-de",
       "file": "piper/de-de/de_DE-kerstin-low.mp3",
+      "gender": "female",
       "license": "CC0"
     },
     {
@@ -3321,6 +3327,7 @@
       "label": "mls · medium · 73 MB",
       "language": "de-de",
       "file": "piper/de-de/de_DE-mls-medium.mp3",
+      "gender": "male",
       "license": "CC-BY 4.0"
     },
     {
@@ -3383,6 +3390,7 @@
       "label": "joy · medium · 61 MB",
       "language": "el-gr",
       "file": "piper/el-gr/el_GR-joy-medium.mp3",
+      "gender": "female",
       "license": "CC BY-NC 4.0"
     },
     {
@@ -3463,6 +3471,7 @@
       "label": "jenny_dioco · medium · 60 MB",
       "language": "en-gb",
       "file": "piper/en-gb/en_GB-jenny_dioco-medium.mp3",
+      "gender": "female",
       "license": "See URL"
     },
     {
@@ -3489,6 +3498,7 @@
       "label": "southern_english_female · low · 60 MB",
       "language": "en-gb",
       "file": "piper/en-gb/en_GB-southern_english_female-low.mp3",
+      "gender": "female",
       "license": "CC-BY-SA 4.0 International"
     },
     {
@@ -3497,6 +3507,7 @@
       "label": "vctk · medium · 73 MB",
       "language": "en-gb",
       "file": "piper/en-gb/en_GB-vctk-medium.mp3",
+      "gender": "female",
       "license": "https://creativecommons.org/licenses/by/4.0/"
     },
     {
@@ -3586,6 +3597,7 @@
       "label": "kathleen · low · 60 MB",
       "language": "en-us",
       "file": "piper/en-us/en_US-kathleen-low.mp3",
+      "gender": "female",
       "license": "CC0"
     },
     {
@@ -3594,6 +3606,7 @@
       "label": "kristin · medium · 61 MB",
       "language": "en-us",
       "file": "piper/en-us/en_US-kristin-medium.mp3",
+      "gender": "female",
       "license": "public domain"
     },
     {
@@ -3737,6 +3750,7 @@
       "label": "sam · medium · 60 MB",
       "language": "en-us",
       "file": "piper/en-us/en_US-sam-medium.mp3",
+      "gender": "female",
       "license": "https://www.apache.org/licenses/LICENSE-2.0.txt"
     },
     {
@@ -3745,6 +3759,7 @@
       "label": "daniela · high · 109 MB",
       "language": "es-ar",
       "file": "piper/es-ar/es_AR-daniela-high.mp3",
+      "gender": "female",
       "license": "Attribution-ShareAlike 4.0 International"
     },
     {
@@ -3798,6 +3813,7 @@
       "label": "ald · medium · 60 MB",
       "language": "es-mx",
       "file": "piper/es-mx/es_MX-ald-medium.mp3",
+      "gender": "male",
       "license": "http://unlicense.org"
     },
     {
@@ -3805,7 +3821,8 @@
       "voiceId": "es_MX-ald-x_low",
       "label": "ald · x_low · 20 MB",
       "language": "es-mx",
-      "file": "piper/es-mx/es_MX-ald-x_low.mp3"
+      "file": "piper/es-mx/es_MX-ald-x_low.mp3",
+      "gender": "male"
     },
     {
       "engine": "piper",
@@ -3813,6 +3830,7 @@
       "label": "claude · high · 60 MB",
       "language": "es-mx",
       "file": "piper/es-mx/es_MX-claude-high.mp3",
+      "gender": "female",
       "license": "apache-2.0"
     },
     {
@@ -3839,6 +3857,7 @@
       "label": "amir · medium · 61 MB",
       "language": "fa-ir",
       "file": "piper/fa-ir/fa_IR-amir-medium.mp3",
+      "gender": "male",
       "license": "CC0"
     },
     {
@@ -3964,6 +3983,7 @@
       "label": "saspeech · medium · 60 MB",
       "language": "he-il",
       "file": "piper/he-il/he_IL-saspeech-medium.mp3",
+      "gender": "male",
       "license": "See dataset URL"
     },
     {
@@ -3990,6 +4010,7 @@
       "label": "rohan · medium · 60 MB",
       "language": "hi-in",
       "file": "piper/hi-in/hi_IN-rohan-medium.mp3",
+      "gender": "male",
       "license": "https://www.iitm.ac.in/donlab/indictts/downloads/license.pdf"
     },
     {
@@ -3998,6 +4019,7 @@
       "label": "anna · medium · 60 MB",
       "language": "hu-hu",
       "file": "piper/hu-hu/hu_HU-anna-medium.mp3",
+      "gender": "female",
       "license": "CC0"
     },
     {
@@ -4006,6 +4028,7 @@
       "label": "berta · medium · 60 MB",
       "language": "hu-hu",
       "file": "piper/hu-hu/hu_HU-berta-medium.mp3",
+      "gender": "female",
       "license": "CC0"
     },
     {
@@ -4086,6 +4109,7 @@
       "label": "riccardo · x_low · 27 MB",
       "language": "it-it",
       "file": "piper/it-it/it_IT-riccardo-x_low.mp3",
+      "gender": "male",
       "license": "See URL"
     },
     {
@@ -4139,6 +4163,7 @@
       "label": "issai · high · 122 MB",
       "language": "kk-kz",
       "file": "piper/kk-kz/kk_KZ-issai-high.mp3",
+      "gender": "male",
       "license": "CC-BY-4.0"
     },
     {
@@ -4219,6 +4244,7 @@
       "label": "chitwan · medium · 60 MB",
       "language": "ne-np",
       "file": "piper/ne-np/ne_NP-chitwan-medium.mp3",
+      "gender": "male",
       "license": "CC0"
     },
     {
@@ -4245,6 +4271,7 @@
       "label": "nathalie · medium · 60 MB",
       "language": "nl-be",
       "file": "piper/nl-be/nl_BE-nathalie-medium.mp3",
+      "gender": "female",
       "license": "CC0"
     },
     {
@@ -4253,6 +4280,7 @@
       "label": "nathalie · x_low · 20 MB",
       "language": "nl-be",
       "file": "piper/nl-be/nl_BE-nathalie-x_low.mp3",
+      "gender": "female",
       "license": "CC0"
     },
     {
@@ -4404,6 +4432,7 @@
       "label": "edresson · low · 60 MB",
       "language": "pt-br",
       "file": "piper/pt-br/pt_BR-edresson-low.mp3",
+      "gender": "male",
       "license": "CC BY 4.0"
     },
     {
@@ -4412,6 +4441,7 @@
       "label": "faber · medium · 60 MB",
       "language": "pt-br",
       "file": "piper/pt-br/pt_BR-faber-medium.mp3",
+      "gender": "male",
       "license": "CC0"
     },
     {
@@ -4420,6 +4450,7 @@
       "label": "jeff · medium · 60 MB",
       "language": "pt-br",
       "file": "piper/pt-br/pt_BR-jeff-medium.mp3",
+      "gender": "male",
       "license": "CC0"
     },
     {
@@ -4428,6 +4459,7 @@
       "label": "tugão · medium · 60 MB",
       "language": "pt-pt",
       "file": "piper/pt-pt/pt_PT-tug-o-medium.mp3",
+      "gender": "male",
       "license": "CC0"
     },
     {
@@ -4445,6 +4477,7 @@
       "label": "denis · medium · 60 MB",
       "language": "ru-ru",
       "file": "piper/ru-ru/ru_RU-denis-medium.mp3",
+      "gender": "male",
       "license": "CC0"
     },
     {
@@ -4462,6 +4495,7 @@
       "label": "irina · medium · 60 MB",
       "language": "ru-ru",
       "file": "piper/ru-ru/ru_RU-irina-medium.mp3",
+      "gender": "female",
       "license": "Unknown"
     },
     {
@@ -4514,14 +4548,16 @@
       "voiceId": "sv_SE-alma-medium",
       "label": "alma · medium · 60 MB",
       "language": "sv-se",
-      "file": "piper/sv-se/sv_SE-alma-medium.mp3"
+      "file": "piper/sv-se/sv_SE-alma-medium.mp3",
+      "gender": "female"
     },
     {
       "engine": "piper",
       "voiceId": "sv_SE-lisa-medium",
       "label": "lisa · medium · 61 MB",
       "language": "sv-se",
-      "file": "piper/sv-se/sv_SE-lisa-medium.mp3"
+      "file": "piper/sv-se/sv_SE-lisa-medium.mp3",
+      "gender": "female"
     },
     {
       "engine": "piper",
@@ -4664,6 +4700,7 @@
       "label": "huayan · medium · 60 MB",
       "language": "zh-cn",
       "file": "piper/zh-cn/zh_CN-huayan-medium.mp3",
+      "gender": "female",
       "license": "Unknown"
     },
     {
