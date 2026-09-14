@@ -3835,6 +3835,15 @@
     },
     {
       "engine": "piper",
+      "voiceId": "et_EE-news-medium",
+      "label": "news · medium · 73 MB",
+      "language": "et-ee",
+      "gender": "male",
+      "file": "piper/et-ee/et_EE-news-medium.mp3",
+      "license": "CC-BY (META-SHARE \"Available - Unrestricted Use\")"
+    },
+    {
+      "engine": "piper",
       "voiceId": "eu_ES-antton-medium",
       "label": "antton · medium · 61 MB",
       "language": "eu-es",

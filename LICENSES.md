@@ -9,15 +9,15 @@ it**, and is recorded per clip in `samples.json`, field `license`.
 | [hexgrad/Kokoro-82M](https://huggingface.co/hexgrad/Kokoro-82M) | 52 | Apache-2.0 |
 | [Supertone/supertonic-3](https://huggingface.co/Supertone/supertonic-3) | 300 | OpenRAIL-M |
 | [myshell-ai/MeloTTS](https://github.com/myshell-ai/MeloTTS) | 1 | MIT |
-| [rhasspy/piper-voices](https://huggingface.co/rhasspy/piper-voices) | 171 | **varies per voice** — see below |
+| [rhasspy/piper-voices](https://huggingface.co/rhasspy/piper-voices) | 172 | **varies per voice** — see below |
 
 ## Piper
 
 Its voices come from as many separate datasets and are **not under one
-licence**. Read from each voice's `MODEL_CARD`, the 171 here are:
+licence**. Read from each voice's `MODEL_CARD`, the 172 here are:
 
 - 104 free of conditions (CC0, public domain, MIT, Apache-2.0)
-- 31 attribution (CC BY)
+- 32 attribution (CC BY)
 - 11 share-alike (CC BY-SA)
 - 19 **non-commercial** (CC BY-NC, CC BY-NC-SA)
 - 2 **copyleft** (AGPLv3, GPL 2.0)
