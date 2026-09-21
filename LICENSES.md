@@ -38,13 +38,13 @@ these clips means passing those restrictions on with them.
 
 Nothing was re-synthesized from the Piper models: those clips are the samples
 rhasspy publishes, and they say that voice's own demo text. Everything else was
-generated here, reading article 1 of the Universal Declaration of Human Rights
-in each language (from [unicode-org/udhr](https://github.com/unicode-org/udhr);
-no known copyright restrictions).
+generated here, every voice reading the same short paragraph about flows, in
+its own language (an original text by the author of this repository, freely
+reproducible).
 
 Every clip was then processed identically, which counts as a modification under
 the attribution licences:
 
 - converted to MP3, mono, 24 kHz, 48 kbps
 - loudness-normalized to -16 LUFS / -1.5 dBTP (EBU R128, two-pass)
-- 11 clips longer than 25 seconds cut to 25, with a one-second fade
+- Piper clips longer than 45 seconds cut to 45, with a one-second fade
